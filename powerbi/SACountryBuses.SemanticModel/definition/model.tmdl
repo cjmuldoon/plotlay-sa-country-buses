@@ -1,0 +1,14 @@
+model Model
+	culture: en-AU
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-AU
+	dataAccessOptions
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation PBI_QueryOrder = ["DataFolder","GetFile","Towns","Days"]
+
+ref table Towns
+ref table Days
+
+ref cultureInfo en-AU

@@ -1,0 +1,875 @@
+ucl_code,town,stop_id,stop_name,lat,lng
+415001,Angaston,102189,Murray St / Tyne St - North side (Angaston Sunrise Bakery),-34.500621,139.049189
+415001,Angaston,102009,Murray St / Tyne St - South side (Angaston Sunrise Bakery),-34.5007,139.04923
+415001,Angaston,102012,Nelder Ave - East side (Good Shepherd Lutheran School),-34.509294,139.047277
+415001,Angaston,102015,Newcastle St / Middle St - North side (Angaston Primary School),-34.499003,139.049505
+415001,Angaston,102013,Newcastle St / Middle St - South side (Angaston Primary School),-34.509263,139.047169
+415001,Angaston,102166,Penrice Rd / Murdock Ct - West side (Penrice),-34.487363,139.046108
+415001,Angaston,102163,Penrice Rd / Murdock St - West side (Penrice),-34.487235,139.045888
+415001,Angaston,102164,Penrice Rd / Stockwell Rd - North side (Light Pass),-34.478837,139.033271
+415001,Angaston,102165,Penrice Rd / Stockwell Rd - South side (Light Pass),-34.478883,139.032843
+421001,Ardrossan (L),102720,First St / Fourth St - South side (Ardrossan Newsagency),-34.423327,137.917551
+421001,Ardrossan (L),102718,Main Coast Rd / Arthurton Rd - West side (Ardrossan Roadhouse),-34.41539,137.91317
+415003,Balaklava,102722,Wallace St / Humphrey St - East side (oppo Balaklava Town Hall),-34.14664,138.415216
+415003,Balaklava,102721,Wallace St / Humphrey St - West side (Balaklava Town Hall),-34.146673,138.415392
+415005,Barmera,103270,Nookamka Tce / Sturt St - North West side (Barmera),-34.248595,140.465005
+415005,Barmera,103269,Nookamka Tce / Sturt St - South East side (Barmera),-34.248639,140.46507
+415005,Barmera,102361,Pascoe Tce / Fowles Rd - South side (Barmera Visitor Centre),-34.25256,140.46466
+415006,Berri,103552,Burgess Dr (Berri Regional Secondary College),-34.27921,140.611954
+415006,Berri,103555,Coneybeer St / Strawbridge St - North side (Berri),-34.285094,140.599331
+415006,Berri,103553,Coneybeer St / Strawbridge St - South side (Berri),-34.285164,140.599419
+415006,Berri,102299,Kay Ave Riverland Central Plaza (Berri),-34.28037,140.60875
+415006,Berri,102300,Maddern Ave Riverland General Hospital (Berri),-34.27551,140.60143
+415006,Berri,102301,Vaughan Tce / Riverview Dr - West side (Berri),-34.28733,140.60239
+415007,Bordertown,102703,Binnie St / North Tce - West side (Bordertown),-36.3084,140.77299
+415007,Bordertown,103014,DeCourcet St / Park Tce - North side (Children's Centre),-36.311331,140.765734
+415007,Bordertown,103015,DeCourcet St / Park Tce - South side (Children's Centre),-36.311445,140.765559
+415007,Bordertown,103011,Farquhar St / Binnie St - North side (Bordertown),-36.309706,140.772688
+415007,Bordertown,103012,Farquhar St / Binnie St - South side (Bordertown),-36.309786,140.772728
+415007,Bordertown,103019,McLeod St / Crocker St - West side (Bordertown Health),-36.308616,140.771981
+415007,Bordertown,103017,Park Tce / Cotton St - East side (Tatiara Retirement Village),-36.31049,140.764605
+415007,Bordertown,103016,Park Tce / Cotton St - West side (Tatiara Retirement Village),-36.310483,140.764535
+415008,Ceduna,102658,Murat Tce / McKenzie St - West side (Auto Pro Ceduna),-32.12521,133.67641
+415009,Clare,103550,Main North Rd / Wendouree Rd - East side (Clare),-33.85606,138.62045
+415009,Clare,102807,Ness St - North side (Clare),-33.8334,138.612384
+415009,Clare,102808,Ness St / Old North Rd - South side (Clare),-33.833456,138.612366
+415011,Crystal Brook,103489,Eyre Rd / Ferguson St - North East side (Mobil Cyrstal Brook),-33.349446,138.206112
+415011,Crystal Brook,102673,Eyre Rd / Ferguson St - South West side (Mobil Cyrstal Brook),-33.34954,138.20599
+415012,Freeling,102080,Gray St / Stephenson St - East side (Freeling Rotary Park),-34.454846,138.808594
+415012,Freeling,102071,Gray St / Stephenson St - West side (Freeling Rotary Park),-34.45466,138.808436
+415012,Freeling,102072,Hanson St / Neindorf Ln - North side (Freeling Football Oval),-34.454196,138.814266
+415012,Freeling,102079,Hanson St / Neindorf Ln - South side (Freeling Football Oval),-34.454285,138.814487
+415012,Freeling,102082,Hanson St / View St - South side (Freeling),-34.453967,138.820815
+415012,Freeling,102101,View St / Hanson St - East side (Freeling),-34.453765,138.820998
+414001,Goolwa,102962,Gardiner St / Hogben Rd - North side (LinkSA Goolwa),-35.50364,138.7717
+414001,Goolwa,102964,Stop 15 Hutchinson St / Coddington St - South side (Goolwa),-35.505023,138.779351
+414001,Goolwa,102960,Stop 15 Hutchinson St / Collingwood St - North side (Goolwa),-35.50488,138.77938
+414001,Goolwa,102963,Stop 16 Cadell St / Moore St - North East side (Goolwa),-35.49928,138.78074
+414001,Goolwa,102961,Stop 16 Cadell St / Moore St - South West side (Goolwa),-35.49937,138.78064
+421013,Greenock (L),102121,Mill St / Midland St - West Side (Laucke Mill Greenock),-34.457183,138.929575
+421013,Greenock (L),102122,Murray St / Adelaide Rd - North side (Greenock PO),-34.457614,138.927841
+421013,Greenock (L),102123,Murray St / Adelaide Rd - South side (Greenock PO),-34.457617,138.927411
+415014,Jamestown,102823,Ayr St / Irvine St - South side (Jamestown Memorial Hall),-33.205679,138.604052
+415015,Kadina,102786,Frances Tce / Barrett Ct - North side (Kadina CFS),-33.96218,137.70511
+415015,Kadina,102791,Frances Tce / Barrett Ct - South side (Kadina CFS),-33.96217,137.70476
+415015,Kadina,102766,Frances Tce / Digby St - North side (Kadina Service Station),-33.96481,137.7151
+415015,Kadina,102785,Port Rd - North side (Copper Triange Taxis Kadina),-33.95856,137.69523
+415015,Kadina,102792,Port Rd - South side (Copper Triange Taxis Kadina),-33.95866,137.69515
+415016,Kapunda,102114,Main St / Coghill St - East side (Kapunda Council Chambers),-34.342709,138.913962
+415016,Kapunda,102117,Main St / Coghill St - West side (Kapunda Council Chambers),-34.342682,138.913817
+415016,Kapunda,102133,Mildred St / Clare Rd - West side (BP Kapunda),-34.338682,138.916802
+415016,Kapunda,102112,Mildred St / South Tce - East side (BP Kapunda),-34.338931,138.916806
+415016,Kapunda,102130,South Tce / Jeffs St - North side (BP Kapunda),-34.339222,138.917038
+415016,Kapunda,102134,South Tce / Main St - South side (BP Kapunda),-34.339261,138.916848
+415016,Kapunda,102118,West Tce / High St - East side (Kapunda High School),-34.332928,138.911529
+415016,Kapunda,102113,West Tce / High St - West side (Kapunda High School),-34.332805,138.911471
+421018,Keith (L),103021,Carinya Cres - West side (Keith Carinya Retirement Village),-36.097005,140.346274
+421018,Keith (L),102704,Dukes Hwy / Riddoch Hwy - South West side (Ampol Keith Roadhouse),-36.086873,140.343288
+421018,Keith (L),103010,Hender St - North East side (Keith),-36.098231,140.353747
+421018,Keith (L),103013,Hender St - South West side (Keith),-36.098192,140.353588
+421018,Keith (L),103020,Heritage St / Makin St - West side (Keith Carries Cottage),-36.098455,140.354903
+415017,Kingscote,103427,First St / Thirds St- South side (Kingscote Tourist Park and Family Units),-35.670613,137.6124
+415017,Kingscote,103434,KI Dragonfly Guesthouse (Kingscote),-35.654327,137.636571
+415017,Kingscote,103432,Kangaroo Island Holiday Village (Kingscote),-35.658368,137.634961
+415017,Kingscote,103431,Kangaroo Island Seaside Inn (Kingscote),-35.65979,137.631205
+415017,Kingscote,103429,Kohinoor Rd / Karatta Tce - South side (Jamieson Marine),-35.652611,137.630069
+415017,Kingscote,103443,Murray St / Osmond St - South West side (Kingscote Gallery),-35.655401,137.638194
+415017,Kingscote,103426,Third St / High St - South side (Brownlow Phone Box),-35.669808,137.613493
+415018,Kingston SE,102717,Princes Hwy / Watson St - West side (Ampol Roadhouse Kingston),-36.82484,139.86197
+415021,Loxton,103554,Bookpurnong Rd (Loxton High School),-34.443454,140.583422
+415021,Loxton,103583,Edward St - South side (Loxton Rotunda),-34.450669,140.569617
+415021,Loxton,103551,Gratwick Rd / Trenerry Ave - North side (Loxton High School),-34.445105,140.585759
+415021,Loxton,103266,View St / Frank Petch Cres - West side (Loxton),-34.456895,140.562983
+415022,Lyndoch,102041,Gilbert St / Kauffman Ave - North side (Lyndoch Motors),-34.601932,138.889072
+415022,Lyndoch,102027,Gilbert St / Lyndoch Valley Rd - South side (Lyndoch),-34.60173,138.89021
+415022,Lyndoch,102028,Lyndoch Valley Rd / Barrossa Valley Way - East side (Lyndoch Hotel Carpark),-34.6021,138.89119
+415022,Lyndoch,102040,Lyndoch Valley Rd / Gilbert St - West side (Lyndon Hotel Carpark),-34.6018,138.891012
+415023,Maitland (SA),102735,Spencer Hwy / Alice St - East side (Maitland Newsagency),-34.3746,137.67288
+415023,Maitland (SA),102734,Spencer Hwy / Alice St - West side (Maitland Pharmacy),-34.37496,137.67249
+415024,Mannum,102379,Adelaide Rd / Berryman Ave - South West side (Mannum),-34.91451,139.30221
+415024,Mannum,102383,Adelaide Rd / Male Rd - North East side (Mannum),-34.91426,139.3022
+415024,Mannum,102384,Adelaide Rd / Parker St - North side (Mannum),-34.91538,139.3073
+415024,Mannum,102378,Adelaide Rd / Parker St - South side (Mannum),-34.91544,139.30741
+415024,Mannum,102422,Belvedere Rd / Marina Wy - North West side (Mannum),-34.93144,139.293306
+415024,Mannum,102233,Belvedere Rd / Marina Wy - South East side (Mannum),-34.931561,139.293362
+415024,Mannum,102380,Ramm Rd / Reed Ave - North East side (Mannum),-34.91553,139.29579
+415024,Mannum,102382,Ramm Rd / Reed Ave - South West side (Mannum),-34.91557,139.2957
+415024,Mannum,102385,Randell St / McLaren St - North West side (Mannum),-34.91015,139.3161
+415024,Mannum,102377,Randell St / McLaren St - South East side (Mannum),-34.91026,139.31617
+415028,Middleton,102965,Stop 12 Goolwa Rd - South East side (Middleton General Store),-35.50835,138.70823
+415028,Middleton,102959,Stop 12 Goolwa Rd / William St - North West side (Middleton),-35.508453,138.70787
+415029,Millicent,102714,Mount Gambier Rd / Short St - North East side (Millicent Visitor Centre),-37.5975,140.35716
+415029,Millicent,102699,Mount Gambier Rd / Short St - South West side (Millicent Visitor Centre),-37.59764,140.35702
+415030,Moonta,102777,Bay Rd - South side (Moonta Bay),-34.05497,137.56151
+415030,Moonta,102779,Blanche Tce / George St - North West side (Moonta Service Station),-34.06905,137.59263
+415030,Moonta,102797,Blanche Tce / Verran Tce - South East side (Moonta Bowling Club),-34.06917,137.59271
+415030,Moonta,102768,George St / Henry St - South West side (Moonta Town Hall),-34.06715,137.59002
+415030,Moonta,102767,Henry St / George St - North West side (Moonta Town Hall),-34.067346,137.589333
+415030,Moonta,102778,Milne Tce / Henry St - North East side (Moonta),-34.06892,137.58696
+415030,Moonta,102798,Milne Tce / Henry St - South West side (Moonta),-34.069,137.58693
+415030,Moonta,102796,Spencer Hwy / Kadina Rd - East side (North Yelta Cross Roads),-34.0609,137.61172
+415030,Moonta,102780,Spencer Hwy / Kadina Rd - West side (North Yelta Cross Roads),-34.06094,137.61158
+415031,Mount Compass,102955,Victor Harbor Rd - East side (Mt Compass),-35.35048,138.62182
+415031,Mount Compass,102970,Victor Harbor Rd / Arthur Rd - West side (Mt Compass),-35.35044,138.62152
+412003,Mount Gambier,102897,Acadia St / Creek St - East side,-37.812493,140.773892
+412003,Mount Gambier,102896,Acadia St / O'Connor Dr - East side,-37.810214,140.775849
+412003,Mount Gambier,102885,Allison St / Wehl St N - South side,-37.80696,140.78652
+412003,Mount Gambier,102898,Banksia St / Heath St - East side,-37.814491,140.771482
+412003,Mount Gambier,102951,Bertha St / Webb St - West side,-37.830365,140.769587
+412003,Mount Gambier,102938,Boandik Tce / Ayers St - South side,-37.840082,140.792085
+412003,Mount Gambier,102924,Boandik Tce / Hanson St - North East side,-37.838429,140.790693
+412003,Mount Gambier,102937,Boandik Tce / Pick Ave - South side,-37.84104,140.79512
+412003,Mount Gambier,102922,Boandik Tce / Warren St - North side,-37.835763,140.786073
+412003,Mount Gambier,102923,Boandik Tce / Werona St - North side,-37.836412,140.788153
+412003,Mount Gambier,103474,Brownes Rd - North side (Mount Gambier High School),-37.824574,140.764717
+412003,Mount Gambier,103468,Brownes Rd - South side (Mount Gambier High School),-37.824787,140.76478
+412003,Mount Gambier,103476,Buronga Ave / Balambool Ave - North side,-37.811386,140.790458
+412003,Mount Gambier,102883,Buronga Ave / Kywong Crt - South side,-37.811356,140.789962
+412003,Mount Gambier,103574,Cave Rd - East side (Mt Gambier Foodbank),-37.822814,140.754681
+412003,Mount Gambier,102860,Commercial St E / Crouch St N - North side,-37.830535,140.787404
+412003,Mount Gambier,102859,Commercial St E / Hedley St - North side,-37.829568,140.784406
+412003,Mount Gambier,102862,Commercial St E / Henty St - North side,-37.833367,140.796279
+412003,Mount Gambier,102863,Commercial St E / Pick Ave - North side,-37.834014,140.798302
+412003,Mount Gambier,102861,Commercial St East - North side (Woolworths),-37.831144,140.78932
+412003,Mount Gambier,102913,Commercial St W / Derrington St - North side,-37.822263,140.761568
+412003,Mount Gambier,102919,Commercial St W / Wehl St N - North side,-37.826108,140.77357
+412003,Mount Gambier,102918,Commercial St W / Wilson St - North side,-37.825232,140.770867
+412003,Mount Gambier,102899,Coolabah St / Banksia St - South side,-37.81572,140.770487
+412003,Mount Gambier,102900,Coolabah St / Felicia St - South side,-37.814839,140.767753
+412003,Mount Gambier,102942,Coorara Ave / Lake Tce E - East side,-37.840254,140.783175
+412003,Mount Gambier,102873,Crouch St N / Boomerang Ave - West side,-37.824027,140.7901
+412003,Mount Gambier,102874,Crouch St N / Canavan Rd - West side,-37.822597,140.790821
+412003,Mount Gambier,102875,Crouch St N / Max Young Dr - West side,-37.820243,140.792013
+412003,Mount Gambier,102876,Crouch St N / Tolmie St - West side,-37.817604,140.792826
+412003,Mount Gambier,102921,Crouch St S / Boandik Tce - East side,-37.834853,140.784779
+412003,Mount Gambier,102917,Ehret St / Commercial St W - East side,-37.824035,140.769351
+412003,Mount Gambier,103485,Fartch St / Heath St - West side,-37.816865,140.777201
+412003,Mount Gambier,102878,Gladigau Rd / Buronga Ave - West side,-37.813405,140.795444
+412003,Mount Gambier,102879,Gladigau Rd / Illawong Dr - West side,-37.811772,140.796274
+412003,Mount Gambier,102916,Gordon St / Ehret St - North side,-37.821511,140.770337
+412003,Mount Gambier,102915,Gordon St / Umpherston St - North side,-37.820854,140.768308
+412003,Mount Gambier,102857,Helen St / Bartletts Ln - North side,-37.830247,140.779175
+412003,Mount Gambier,102939,Holder St / Tallara Ave - East side,-37.840777,140.79058
+412003,Mount Gambier,103482,Honnington Blvd / Wireless Rd E - East side,-37.821746,140.81165
+412003,Mount Gambier,103486,Honnington Blvd / Wireless Rd E - West side,-37.821696,140.811541
+412003,Mount Gambier,102930,Hosking Ave / Lake Tce East - West side,-37.844654,140.795196
+412003,Mount Gambier,103471,Hosking Ave / Newsham Ave - East side (Grant High School),-37.847515,140.794126
+412003,Mount Gambier,102929,Hosking Ave / Newsham Ave - West side (Grant High School),-37.847791,140.793926
+412003,Mount Gambier,102882,Illawong Dr / Buronga Ave - South East side,-37.812237,140.792772
+412003,Mount Gambier,102880,Illawong Dr / Gladigau Rd - South side,-37.810515,140.796175
+412003,Mount Gambier,102881,Illawong Dr / Willawa St - South East side,-37.810469,140.794054
+412003,Mount Gambier,102935,Ingleby St / Douglas St - East side,-37.84137,140.796968
+412003,Mount Gambier,102855,James St / Englebrecht Ln - North side,-37.828325,140.77691
+412003,Mount Gambier,102856,James St / Gray St - North side,-37.828888,140.778695
+412003,Mount Gambier,102854,James St / Whel St - North side,-37.827746,140.775082
+412003,Mount Gambier,102944,John Watson Dr / Riddoch Hwy - South side (Blue Lake),-37.842682,140.777566
+412003,Mount Gambier,103481,Jubilee Hwy / Sutton Ave - North side,-37.817862,140.766094
+412003,Mount Gambier,102698,Jubillee Hwy East - North East side (Mount Gambier Visitor Centre),-37.82606,140.78793
+412003,Mount Gambier,103466,Keegan St / Jardine St - West side,-37.82731,140.786769
+412003,Mount Gambier,102926,Lake Tce E / Finch St - North side,-37.843176,140.791699
+412003,Mount Gambier,102927,Lake Tce E / Pick Ave - North side (Boandik Lodge),-37.843752,140.793547
+412003,Mount Gambier,102945,Lake Tce West / Wallace St - South side,-37.836729,140.771365
+412003,Mount Gambier,102906,Mallee St / Maxwell St - East side,-37.811123,140.762888
+412003,Mount Gambier,102936,Newton Cres / Pick Ave - South side,-37.842469,140.795393
+412003,Mount Gambier,102872,North Tce / Anthony St - South side,-37.825801,140.790214
+412003,Mount Gambier,103472,North Tce / Byrne St - North side (McDonald Park School),-37.826273,140.7921
+412003,Mount Gambier,102870,North Tce / Comaum Ave - South side,-37.82775,140.796252
+412003,Mount Gambier,102871,North Tce / Davison St - South side (McDonald Park School),-37.826866,140.793505
+412003,Mount Gambier,102869,North Tce / Gardiner Tce - South side,-37.828702,140.799268
+412003,Mount Gambier,102868,North Tce / Ramsay Ave - South side,-37.830494,140.804931
+412003,Mount Gambier,102867,North Tce / Silverbrook Ave - South side,-37.831417,140.807776
+412003,Mount Gambier,103484,O'Leary Rd / Springview Dr - East side,-37.807618,140.756147
+412003,Mount Gambier,103475,O'Leary Rd / Springview Dr - West side,-37.807499,140.755913
+412003,Mount Gambier,102884,Penola Rd - East side (Mount Gambier Marketplace),-37.807274,140.792076
+412003,Mount Gambier,102888,Penola Rd / Commercial St W - West side (Mount Gambier Hotel),-37.827839,140.780885
+412003,Mount Gambier,102889,Penola Rd / Queens Ave - West side,-37.81971,140.78493
+412003,Mount Gambier,103477,Pick Ave / Boandik Tce - East side (Melaleuca Park Primary School),-37.840694,140.796048
+412003,Mount Gambier,103480,Pick Ave / Boandik Tce - West side (Melaleuca Park Primary School),-37.840357,140.796017
+412003,Mount Gambier,102928,Pick Ave / Campbell St - East side,-37.846392,140.7933
+412003,Mount Gambier,102932,Pressy St / Howard St - North West side,-37.842116,140.800389
+412003,Mount Gambier,102931,Pressy St / Orr St - West side,-37.844267,140.798153
+412003,Mount Gambier,102890,Queens Ave / Clezy Cres - South side,-37.818561,140.781781
+412003,Mount Gambier,102891,Queens Ave / Wehl St N - West side,-37.817454,140.778886
+412003,Mount Gambier,102912,Shelton St / Commercial St W - East side,-37.820602,140.760849
+412003,Mount Gambier,102911,Shelton St / Nicholas St - East side,-37.819281,140.761517
+412003,Mount Gambier,102910,Shelton St / Princes Hwy - East side,-37.817391,140.762494
+412003,Mount Gambier,102948,Shepherdson Rd / Bertha St - South side,-37.832478,140.768393
+412003,Mount Gambier,102949,Shepherdson Rd / Bond St - South side,-37.831694,140.76629
+412003,Mount Gambier,103469,Shepherdson Rd / Laurie St - North side (Tenison Woods College),-37.827397,140.755386
+412003,Mount Gambier,103473,Shepherdson Rd / White Ave - South side (Tenison Woods College),-37.827593,140.755537
+412003,Mount Gambier,103467,St Martins Dr - South side (St Martins Lutheran College),-37.820493,140.797206
+412003,Mount Gambier,102905,Stiles St / Leray Ave - North East side,-37.809616,140.764154
+412003,Mount Gambier,102925,Stop 2 Holder St / Lake Tce E - East side,-37.842495,140.789708
+412003,Mount Gambier,102943,Stop 3 Crouch St S / Chester Pl - East side,-37.840787,140.781728
+412003,Mount Gambier,102858,Sturt St / Ferrers St - North side (City of Mount Gambier),-37.830931,140.781274
+412003,Mount Gambier,102901,Suttontown Rd / Heaver Dr - West side,-37.8134,140.76715
+412003,Mount Gambier,102940,Tallara Ave / Allawah St - South side,-37.840606,140.788596
+412003,Mount Gambier,102941,Tallara Ave / Hirth St - South side,-37.839393,140.785201
+412003,Mount Gambier,102933,Telford St / Curran St - South side,-37.840508,140.799859
+412003,Mount Gambier,102934,Telford St / Ingleby St - South West side,-37.839781,140.798407
+412003,Mount Gambier,102865,Tumut Dr / Barwon Cres - North West side,-37.834516,140.807812
+412003,Mount Gambier,102864,Tumut Dr / Jubilee Hwy E - West side,-37.836017,140.806449
+412003,Mount Gambier,102866,Tumut Dr / Lachlan Cres - West side,-37.832863,140.809121
+412003,Mount Gambier,102914,Umpherston St / Commercial St W - West side,-37.823626,140.766235
+412003,Mount Gambier,103478,Underwood Ave / Karri St - West side (Mulga Primary School),-37.81282,140.761483
+412003,Mount Gambier,102907,Underwood Ave / Quandong Ave - East side (Mulga Primary School),-37.812848,140.761615
+412003,Mount Gambier,102950,Webb St / Hammer Ct - North side,-37.829899,140.767578
+412003,Mount Gambier,102886,Wehl St N / Carthew St - East side,-37.820362,140.777574
+412003,Mount Gambier,102887,Wehl St N / Jane St - East side,-37.825883,140.774777
+412003,Mount Gambier,103483,Wehl St S - East side (Reidy Park Primary School),-37.832838,140.771061
+412003,Mount Gambier,103470,Wehl St S - East side (Reidy Park Primary School),-37.834065,140.770641
+412003,Mount Gambier,102953,Wehl St S / Helen St - West side,-37.828715,140.773176
+412003,Mount Gambier,102946,Wehl St S / O'Halloran Tce - West side,-37.835573,140.769692
+412003,Mount Gambier,102947,Wehl St S / Shepherdson Rd - West side (Reidy Park Primary School),-37.83336,140.770811
+412003,Mount Gambier,102892,Whel St N / McArthur St - West side,-37.815249,140.780001
+412003,Mount Gambier,102893,Whel St N / Trevorrow St - West side,-37.813611,140.780822
+412003,Mount Gambier,102894,Whel St N / Wireless Rd West - West side,-37.812149,140.781561
+412003,Mount Gambier,102952,William St / Bertha St - North side,-37.828747,140.770617
+412003,Mount Gambier,102908,Willow Ave / Mulga St - East side (Mulga Primary School),-37.812913,140.759211
+412003,Mount Gambier,102909,Willow Ave / Princes Hwy - East side,-37.815083,140.75779
+412003,Mount Gambier,103479,Wimmera St / Fartch St - East side (Mount Gambier North Primary School),-37.817338,140.77727
+412003,Mount Gambier,102877,Wireless Rd E / Gladigau Rd - North side,-37.81564,140.793697
+412003,Mount Gambier,102903,Wireless Rd W - South side (TAFE),-37.806745,140.765863
+412003,Mount Gambier,102904,Wireless Rd W / Flinders Tce - South side,-37.805703,140.762637
+412003,Mount Gambier,102895,Wireless Rd W / Matthew Flinders Way - South side,-37.810967,140.779001
+412003,Mount Gambier,102902,Wireless Rd W / Montebello Dr - South side,-37.807559,140.768423
+413002,Murray Bridge,102217,Adelaide Rd - North side (Murray Bridge Tourist Park),-35.13621,139.23324
+413002,Murray Bridge,102216,Adelaide Rd - South side (Murray Bridge Tourist Park),-35.13629,139.2333
+413002,Murray Bridge,102248,Bigmore Rd / Mannum Rd - North side (Murray Bridge),-35.10577,139.2547
+413002,Murray Bridge,102239,Bigmore Rd / Mannum Rd - South side (Murray Bridge),-35.10579,139.25452
+413002,Murray Bridge,102241,Blackwood Ave / Thomas St - South East (Murray Bridge),-35.11535,139.25152
+413002,Murray Bridge,102252,Bridge St / Mannum Rd - North side (Murray Bridge),-35.11973,139.27411
+413002,Murray Bridge,102251,Bridge St / Swanport Rd - South side (Murray Bridge),-35.11989,139.27427
+413002,Murray Bridge,102256,Brinkley Rd / Hindmarsh Rd - East side (Murray Bridge),-35.13964,139.26809
+413002,Murray Bridge,102255,Brinkley Rd / Maurice Rd - West side (Murray Bridge),-35.13959,139.26796
+413002,Murray Bridge,102263,Darling Ave / McQuarrie St - South side (Murray Bridge),-35.144119,139.28496
+413002,Murray Bridge,102242,Doecke St / Lincoln Rd - North side (Murray Bridge),-35.12877,139.24921
+413002,Murray Bridge,102246,Doecke St / Lincoln Rd - South side (Murray Bridge),-35.12887,139.24917
+413002,Murray Bridge,102260,Finch Rd / Corella Pl - North side (Murray Bridge),-35.1401,139.28672
+413002,Murray Bridge,102424,Florence St / McHenry St - North West side (St Joseph's School),-35.117765,139.269102
+413002,Murray Bridge,102240,Frahn Rd / Nilpena Rd - East side (Northern Heights),-35.10586,139.26112
+413002,Murray Bridge,102265,Fraser Ave - North West side (Johnstone Ave Reserve),-35.14253,139.27618
+413002,Murray Bridge,102266,Gail Cres / Pfitzner St - North West side (Murray Bridge),-35.13751,139.27818
+413002,Murray Bridge,102211,Hill St / Mulgundawah Rd - North East side (Murray Bridge),-35.132,139.27499
+413002,Murray Bridge,102205,Hill St / Mulgundawah Rd - South West side (Murray Bridge),-35.13198,139.27476
+413002,Murray Bridge,102264,Homburg Dr / Heddle Ave - East side (Fraser Park Primary School),-35.138257,139.278997
+413002,Murray Bridge,102243,Ind St / Mannum Rd - South East side (Murray Bridge North School),-35.11683,139.26992
+413002,Murray Bridge,102244,Jarvis Ave / Potter Ave - West side (Murray Bridge),-35.131826,139.283753
+413002,Murray Bridge,102227,Long Island Rd - North East side (Murray Bridge High School),-35.13588,139.28665
+413002,Murray Bridge,102219,Maurice Rd - North side (Mobilong Correctional Facility),-35.11563,139.23168
+413002,Murray Bridge,102224,Maurice Rd - South side (Mobilong Correctional Facility),-35.11568,139.23164
+413002,Murray Bridge,102202,Maurice Rd / Albert Tce - East side (Murray Bridge),-35.12231,139.25401
+413002,Murray Bridge,102215,Maurice Rd / Dorset St - West side (Murray Bridge),-35.12235,139.25389
+413002,Murray Bridge,102267,Mulgundawah Rd / Hill St - North West side (Murray Bridge),-35.1325,139.2753
+413002,Murray Bridge,102250,Murray Dr / Thule Dr - South East side (Riverglades),-35.1057,139.29291
+413002,Murray Bridge,102247,Nilpena Rd / Frahn Rd - North side (Northern Heights),-35.106,139.26085
+413002,Murray Bridge,102229,Owl Dr - Unity Junior College (Murray Bridge),-35.14594,139.28941
+413002,Murray Bridge,102228,Owl Dr - Unity Senior College (Murray Bridge),-35.14663,139.29282
+413002,Murray Bridge,102262,Owl Dr / Lorikeet Ave - West side (Murray Bridge),-35.14335,139.28734
+413002,Murray Bridge,102203,Railway Tce - North side (Murray Bridge Railway Station),-35.11671,139.27475
+413002,Murray Bridge,102405,Railway Tce - South side (Murray Bridge Railway Station),-35.116805,139.274675
+413002,Murray Bridge,102261,Robin St / Rosella Ct - South side (Murray Bridge),-35.14386,139.28894
+413002,Murray Bridge,102249,Ross Rd / Moore St - North side (Murray Bridge East),-35.11103,139.288252
+413002,Murray Bridge,102204,South Tce - South East side (City of Murray Bridge),-35.12044,139.2753
+413002,Murray Bridge,102259,Standen St / Adelaide Rd - South East side (Murray Bridge),-35.12058,139.27329
+413002,Murray Bridge,102226,Swanport Tce - East side (TAFE SA Murray Bridge),-35.12557,139.27748
+413002,Murray Bridge,102253,Thomas St / Adelaide Rd - North East side (Murray Bridge),-35.1239,139.26329
+413002,Murray Bridge,102258,Thomas St / Adelaide Rd - South West side (Murray Bridge),-35.12389,139.26307
+413002,Murray Bridge,102274,Tyndale Christian School Adelaide Rd (Murray Bridge),-35.12871,139.25585
+413002,Murray Bridge,102254,Zerna Ave / Frieda St - East side (Murray Bridge),-35.13572,139.24418
+413002,Murray Bridge,102257,Zerna Ave / Frieda St - West side (Murray Bridge),-35.1358,139.24412
+414003,Naracoorte,102701,Rolland St / Smith St -East side (Naracoorte Battery Service),-36.95518,140.7461
+414003,Naracoorte,103025,Smith St / Bank Pl - North side (Naracoorte),-36.955493,140.743301
+415032,Normanville,103002,Andrew Ave / Main Rd - East side (Foodland Normanville),-35.44702,138.318243
+414004,Nuriootpa,102697,Barossa Valley Way / Sturt Hwy - East side (Ampol Roadhouse Nuriootpa),-34.457002,139.002808
+414004,Nuriootpa,102011,Murray St - West side (Nurioopta BP Service Station),-34.476265,138.994739
+414004,Nuriootpa,102004,Murray St / New Rd - East side (Nurioopta BP Service Station),-34.47632,138.99485
+414004,Nuriootpa,102003,Penrice Rd - North side (Nurioopta High School),-34.46863,138.99866
+414004,Nuriootpa,102323,Penrice Rd - South side (Nurioopta High School),-34.468726,138.998607
+414004,Nuriootpa,102008,Samuel Rd - East side (Barossa Enterprises),-34.47284,138.97533
+414004,Nuriootpa,102005,Vine St - East side (Redeemer Lutheran School),-34.465833,138.985326
+414004,Nuriootpa,102002,Vine St - West side (Redeemer Lutheran School),-34.46588,138.98522
+415033,Paringa,103263,Murtho Rd / Sturt Hwy - West side (Paringa),-34.180814,140.782749
+415034,Penola,102700,Arthur St / Portland St - North side (Penola Tourist Info Centre),-37.37779,140.83786
+415035,Peterborough,103460,Main St - South side (Public Toilets- Peterborough),-32.973379,138.837442
+415035,Peterborough,102832,Main St / High St - North side (Junction Hotel Peterborough),-32.973155,138.839024
+415035,Peterborough,102833,Main St / High St - South side (oppo Junction Hotel Peterborough),-32.973226,138.839029
+413003,Port Augusta,102645,Addison Rd / Eyre Highway - East side (Port Augusta West),-32.483347,137.742147
+413003,Port Augusta,102643,Addison Rd / Eyre Highway - West side (Port Augusta West),-32.483339,137.742004
+413003,Port Augusta,102614,Bond St / Sanderson St - South side (Port Augusta West Primary School),-32.482855,137.754029
+413003,Port Augusta,102622,Carlton Pde / Mulhall St - South East side,-32.494514,137.772872
+413003,Port Augusta,102618,Cole Cres / Inglis Ct - South side (Port Augusta West),-32.469713,137.755648
+413003,Port Augusta,102619,Edinburgh Tce / Gaunt St - West side (Port Augusta),-32.507128,137.783798
+413003,Port Augusta,102621,Flinders Tce / Klingber Dr - South side (Port Augusta),-32.485745,137.777903
+413003,Port Augusta,102396,Flinders Tce / Young St - North side (Fountain Gallery),-32.492252,137.766124
+413003,Port Augusta,102478,Flinders Tce / Young St - South side (Fountain Gallery),-32.492405,137.766242
+413003,Port Augusta,102620,Harold St / Forster St - West side (Port Augusta),-32.487681,137.778612
+413003,Port Augusta,103464,Jervois St / Beauchamp Ln - North side (Gladstone Square- Port Augusta),-32.491871,137.764177
+413003,Port Augusta,102535,Mackay St / Commercial Rd - South side (Post Office),-32.49138,137.762624
+413003,Port Augusta,102394,Marryatt St / Jervois St - East side (Coles),-32.492208,137.764765
+413003,Port Augusta,102395,Marryatt St / Jervois St - West side (Coles),-32.492427,137.764803
+413003,Port Augusta,102616,Mildred St / Sanderson St - North side (Port Augusta West Primary School),-32.483873,137.754665
+413003,Port Augusta,102669,Princes Hwy / Northern Power Station Rd - South side (OTR Port Augusta East),-32.51141,137.803008
+413003,Port Augusta,102550,Seaview Rd / Withers St - South side (Seaview College),-32.500341,137.781449
+413003,Port Augusta,102615,Shirley St / Addison Rd - South side,-32.490775,137.744608
+413003,Port Augusta,102613,Stirling Rd - East side (Port Augusta Secondary School),-32.494315,137.768219
+413003,Port Augusta,102644,Stokes Tce / Mellor St - North West side (Port Augusta West),-32.479045,137.757311
+413003,Port Augusta,102515,Stop 1 Augusta Hwy - North East side,-32.516459,137.815634
+413003,Port Augusta,102542,Stop 1 Flinders Tce / Terry St St - North West side (Braddock Park),-32.490512,137.769118
+413003,Port Augusta,102579,Stop 1 Mellor St / Burgoyne St - West side,-32.482236,137.760408
+413003,Port Augusta,102479,Stop 1 Stirling Rd / Trent Rd - North side (Pastoral Hotel),-32.497896,137.770423
+413003,Port Augusta,102624,Stop 1 Stirling Rd / Trent Rd - South side (Pastoral Hotel),-32.49793,137.770118
+413003,Port Augusta,102525,Stop 10 Francis St / Progress Ave - North side,-32.511281,137.84496
+413003,Port Augusta,102642,Stop 10 Fullerton Cres / Limington Ave - East side,-32.510786,137.77843
+413003,Port Augusta,102641,Stop 10 Fullerton Cres / Limington Ave - West side,-32.510796,137.778274
+413003,Port Augusta,102588,Stop 10 Hurcombe Cres / Anderson Cres - West side,-32.469804,137.749386
+413003,Port Augusta,102551,Stop 10 Jessop St / Mealy St - West side,-32.498707,137.785019
+413003,Port Augusta,102552,Stop 11 Clontarf St / Power Cres - West side,-32.496975,137.786768
+413003,Port Augusta,102536,Stop 11 Edinburgh Tce / Fullerton Cr - East side,-32.51249,137.780813
+413003,Port Augusta,102537,Stop 11 Edinburgh Tce / Fullerton Cr - West side,-32.51241,137.780747
+413003,Port Augusta,102589,Stop 11 Hurcombe Cres / Service Rd - South side,-32.469561,137.747178
+413003,Port Augusta,102526,Stop 11 Progress Ave / McKerlie St - East side,-32.515279,137.844158
+413003,Port Augusta,102501,Stop 11 Ridgeway Ave / Edinburgh Tce - North side,-32.511755,137.78103
+413003,Port Augusta,102502,Stop 11 Ridgeway Ave / Edinburgh Tce - South side,-32.511789,137.780901
+413003,Port Augusta,102504,Stop 12 Hannagan St / Parham Cres - East side,-32.511389,137.783793
+413003,Port Augusta,102503,Stop 12 Hannagan St / Parham Cres - West side,-32.511294,137.783702
+413003,Port Augusta,102590,Stop 12 Hurcombe Cres / Kay Cres - East side,-32.470984,137.745125
+413003,Port Augusta,102553,Stop 12 Power Cres / Barry St - South side,-32.49651,137.784663
+413003,Port Augusta,102527,Stop 12 Progress Ave / Quorn Rd - East side,-32.517235,137.843636
+413003,Port Augusta,102554,Stop 13 Barry St / Elsie St - West side (Augusta Park Primary),-32.495783,137.783625
+413003,Port Augusta,102591,Stop 13 Hurcombe Cres / Waters Cres - East side,-32.472796,137.747341
+413003,Port Augusta,102505,Stop 13 Kirkham Ave / Hannagan St - North side (Central Augusta FC),-32.508977,137.784835
+413003,Port Augusta,102506,Stop 13 Kirkham Ave / Hannagan St - South side (Central Augusta FC),-32.509037,137.784788
+413003,Port Augusta,102528,Stop 13 Michael Ave / Nestor St - East side,-32.51944,137.843079
+413003,Port Augusta,102555,Stop 14 Barry St / Bailey St - West side (Augusta Park Kindy),-32.493929,137.782188
+413003,Port Augusta,102592,Stop 14 Hurcombe Cres / Domeyer Ct - East side,-32.473783,137.74909
+413003,Port Augusta,102507,Stop 14 Kirkham Ave / Edinburgh Tce - North side,-32.508401,137.783289
+413003,Port Augusta,102508,Stop 14 Kirkham Ave / Edinburgh Tce - South side,-32.508468,137.783199
+413003,Port Augusta,102529,Stop 14 Nestor St / Maule Ave - North side,-32.520075,137.845858
+413003,Port Augusta,102509,Stop 15 Abernethy Ave / Roberts Cres - North side,-32.506516,137.781742
+413003,Port Augusta,102510,Stop 15 Abernethy Ave / Roberts Cres - South side,-32.506599,137.78172
+413003,Port Augusta,102556,Stop 15 Barry St / Baker St - West side,-32.492792,137.781296
+413003,Port Augusta,102593,Stop 15 Mcsporran Cres / Stuart Hwy - South side,-32.475142,137.748631
+413003,Port Augusta,102530,Stop 15 Quorn Road / Maule Ave - South side,-32.517387,137.846399
+413003,Port Augusta,102511,Stop 16 Nicholson St / Hodge St - North side,-32.504951,137.782891
+413003,Port Augusta,102512,Stop 16 Nicholson St / Hodge St - South side,-32.504867,137.782282
+413003,Port Augusta,102531,Stop 16 Prosser Rd / Quorn Rd - East side,-32.518098,137.841083
+413003,Port Augusta,102594,Stop 16 Stuart Hwy / Richardson Cres - North East side,-32.47798,137.751197
+413003,Port Augusta,102557,Stop 17 Cain St / Carlton Pde - South side (Cemetary),-32.487697,137.781651
+413003,Port Augusta,102513,Stop 17 Nicholson Tce / Harden St - North side,-32.505321,137.783785
+413003,Port Augusta,102514,Stop 17 Nicholson Tce / Harden St - South side,-32.505439,137.783827
+413003,Port Augusta,102595,Stop 17 Stuart Hwy / Stokes Tce - North East side (Shell Westside),-32.480965,137.755359
+413003,Port Augusta,102532,Stop 17 Whiting St / Callier Ave - East side,-32.520566,137.841214
+413003,Port Augusta,102596,Stop 18 Bond St / Alexander St - South side,-32.482086,137.755304
+413003,Port Augusta,102558,Stop 18 Carlton Pde / Harold St - South side,-32.488672,137.779648
+413003,Port Augusta,102533,Stop 18 Whiting St / McConnal Rd - East side,-32.523437,137.840455
+413003,Port Augusta,102559,Stop 19 Carlton Pde / Conroy St - East side (Carlton Plaza),-32.490483,137.777187
+413003,Port Augusta,102560,Stop 19 Carlton Pde / Stuart Tce - West side (Carlton Plaza),-32.490511,137.777007
+413003,Port Augusta,102598,Stop 19 Cobbin St / Platt St - South side,-32.486291,137.748395
+413003,Port Augusta,102597,Stop 19 Shirley St / Woodforde St - East side,-32.485766,137.750734
+413003,Port Augusta,102543,Stop 2 Flinders Tce / Thompson St - North West side (Emmas Deli),-32.489658,137.770675
+413003,Port Augusta,102580,Stop 2 Mellor St / Mildred St - West side,-32.480999,137.759391
+413003,Port Augusta,102516,Stop 2 Range View Rd / McConnal Rd - East side,-32.518582,137.826451
+413003,Port Augusta,102517,Stop 2 Range View Rd / McConnal Rd - West side,-32.518069,137.826914
+413003,Port Augusta,102625,Stop 2 Stirling Rd / Johnson St - North side,-32.499169,137.772353
+413003,Port Augusta,102626,Stop 2 Stirling Rd / Johnson St - South side,-32.499321,137.772172
+413003,Port Augusta,102648,Stop 20 Cobbin St / Cleary St - North side,-32.486233,137.746512
+413003,Port Augusta,102599,Stop 20 Cobbin St / Cleary St - South side,-32.486364,137.746067
+413003,Port Augusta,102561,Stop 20 Stuart Tce / Forster St - South West side (Carlton Primary School),-32.489534,137.775644
+413003,Port Augusta,102647,Stop 21 Cobbin St / Addison Rd - North side,-32.48633,137.743699
+413003,Port Augusta,102600,Stop 21 Cobbin St / Addison Rd - South side,-32.486452,137.74336
+413003,Port Augusta,102562,Stop 21 Stuart Tce / Flinders Tce - South West side,-32.487455,137.77398
+413003,Port Augusta,102602,Stop 22 Addison Rd / Tamblyn St - East side,-32.488956,137.743732
+413003,Port Augusta,102601,Stop 22 Addison Rd / Tamblyn St - West side,-32.488917,137.74359
+413003,Port Augusta,102563,Stop 22 Stuart Tce / Pybus St - South West side,-32.485871,137.772721
+413003,Port Augusta,102604,Stop 23 Shirley St / Harcus Pl - North West side,-32.489352,137.74628
+413003,Port Augusta,102603,Stop 23 Shirley St / Harcus Pl - South East side,-32.489543,137.746234
+413003,Port Augusta,102605,Stop 24 Shirley St / Platt St - North West side,-32.487654,137.748632
+413003,Port Augusta,102564,Stop 24 Tassie St / Douglas St - North West side,-32.48364,137.773139
+413003,Port Augusta,102607,Stop 25 Bond St / Mitchell Tce - South side,-32.483981,137.752118
+413003,Port Augusta,102606,Stop 25 Mitchell Tce / Shirley St - East side,-32.484529,137.752073
+413003,Port Augusta,102540,Stop 25 Mitchell Tce / Stokes Tce - West side (Caritas College),-32.483645,137.751239
+413003,Port Augusta,102565,Stop 25 Tassie St / Clive St - North West side (Flinders Childrens),-32.482219,137.775643
+413003,Port Augusta,102608,Stop 26 Mildred St / Mitchell Tce - North side (Watertower),-32.484931,137.752807
+413003,Port Augusta,102567,Stop 26 Thelma St / Clive St - West side,-32.481219,137.774294
+413003,Port Augusta,102609,Stop 27 Mildred St / Hartley St - North side,-32.483644,137.755105
+413003,Port Augusta,102568,Stop 27 Thelma St / Colac Ave - West side,-32.479457,137.77519
+413003,Port Augusta,102610,Stop 28 Mildred St / Alexander St - North side,-32.483059,137.756076
+413003,Port Augusta,102566,Stop 28 Simmons St (Davenport Community),-32.470233,137.785601
+413003,Port Augusta,102569,Stop 28 Sylvia Ave / Higginson St - South side,-32.477092,137.775031
+413003,Port Augusta,102611,Stop 29 Caroona Rd / Loudon Rd - North side (Foodland),-32.483736,137.758082
+413003,Port Augusta,102570,Stop 29 Sylvia Ave / Daniel Tce - South side,-32.475739,137.77308
+413003,Port Augusta,102544,Stop 3 Augusta Tce / Davenport St - North East side (Central Oval),-32.490912,137.772318
+413003,Port Augusta,102627,Stop 3 Hospital Rd / Stirling Rd - East side,-32.501055,137.774592
+413003,Port Augusta,102628,Stop 3 Hospital Rd / Stirling Rd - West side,-32.500947,137.774399
+413003,Port Augusta,102581,Stop 3 Mellor St / Stokes Tce - West side,-32.479026,137.757813
+413003,Port Augusta,102518,Stop 3 Railway Station Rd / Beckham St - West side (Stirling North Primary),-32.512772,137.835993
+413003,Port Augusta,102571,Stop 30 Daniel Tce / Clive St - East side,-32.480751,137.772593
+413003,Port Augusta,102572,Stop 31 Daniel Tce - East side,-32.482099,137.771694
+413003,Port Augusta,102573,Stop 32 Daniel Tce / Tassie St - East side,-32.484287,137.771885
+413003,Port Augusta,102574,Stop 33 Tassie St / Watt St - South side,-32.485185,137.770784
+413003,Port Augusta,102575,Stop 34 O'Malley St - East side,-32.485685,137.771019
+413003,Port Augusta,102576,Stop 35 Pybus St / Ralkeith St - South side,-32.486426,137.771252
+413003,Port Augusta,102577,Stop 36 Pybus St / Thompson St - South side,-32.487364,137.769682
+413003,Port Augusta,102578,Stop 37 Thompson St / Flinders Tce - East side,-32.489139,137.770946
+413003,Port Augusta,102545,Stop 4 Augusta Tce / Carlton Pde - North East side (TAFE),-32.493075,137.774001
+413003,Port Augusta,102582,Stop 4 Chinnery St / Stokes Tce - West side,-32.4773,137.759621
+413003,Port Augusta,102519,Stop 4 Coats St / Harris St - South side,-32.50485,137.836182
+413003,Port Augusta,102629,Stop 4 Hospital Rd / Railway Pde - East side,-32.503512,137.774908
+413003,Port Augusta,102630,Stop 4 Hospital Rd / Railway Pde - West side,-32.503659,137.774769
+413003,Port Augusta,102583,Stop 5 Chinnery St / Bryant St - West side,-32.476005,137.758615
+413003,Port Augusta,102631,Stop 5 Hospital Rd / Paringa Rd - East side,-32.504719,137.775072
+413003,Port Augusta,102632,Stop 5 Hospital Rd / Paringa Rd - West side,-32.504651,137.774892
+413003,Port Augusta,102546,Stop 5 Seaview Rd / Haddy St - North East side,-32.494759,137.775643
+413003,Port Augusta,102520,Stop 5 Spicer Ave / Johnson Ave - North side,-32.50198,137.835062
+413003,Port Augusta,102584,Stop 6 Chinnery St / Richardson Cres - West side,-32.474557,137.757328
+413003,Port Augusta,102633,Stop 6 Hospital Rd / Miles St - East side,-32.508192,137.775485
+413003,Port Augusta,102634,Stop 6 Hospital Rd / Miles St - West side,-32.507961,137.77532
+413003,Port Augusta,102521,Stop 6 North Tce / Herbert St - North side,-32.504303,137.838712
+413003,Port Augusta,102547,Stop 6 Seaview Rd / Pine St - North East side (Pika Wiya),-32.496173,137.776664
+413003,Port Augusta,102635,Stop 7 Anstey St / Giles St - North side (Hospital),-32.509002,137.776721
+413003,Port Augusta,102636,Stop 7 Anstey St / Giles St - South side (Hospital),-32.509098,137.776705
+413003,Port Augusta,102585,Stop 7 Chinnery St / Lethbridge Ct - South West side,-32.473054,137.75575
+413003,Port Augusta,102522,Stop 7 Jane St / North Tce - East side,-32.505203,137.840448
+413003,Port Augusta,102548,Stop 7 Seaview Rd / Elsie St - North East side (McDonald's),-32.498518,137.778557
+413003,Port Augusta,102541,Stop 8 Chinnery St / McSporran Cres (Flinders View Primary School),-32.471876,137.754017
+413003,Port Augusta,102638,Stop 8 Elizabeth Tce / Giles St - East side,-32.509166,137.777685
+413003,Port Augusta,102637,Stop 8 Elizabeth Tce / Giles St - West side,-32.509075,137.777438
+413003,Port Augusta,102539,Stop 8 Elizabeth Tce / Paringa Rd - West side,-32.506415,137.778896
+413003,Port Augusta,102586,Stop 8 Mcsporran Cres / Chinnery St - East side,-32.471733,137.753018
+413003,Port Augusta,102623,Stop 8 Seaview Rd / Power Cres - North side (Seaview College),-32.500264,137.781626
+413003,Port Augusta,102538,Stop 8 View St / Elizabeth Tce - South side,-32.508679,137.778116
+413003,Port Augusta,102523,Stop 8 Wastell St / Jane St - North side,-32.507107,137.840383
+413003,Port Augusta,102640,Stop 9 Elizabeth Tce / Hall St - East side,-32.511414,137.77652
+413003,Port Augusta,102639,Stop 9 Elizabeth Tce / Hall St - West side,-32.511369,137.776336
+413003,Port Augusta,102587,Stop 9 Hurcombe Cres / McSporran Cres - West side,-32.472279,137.751439
+413003,Port Augusta,102549,Stop 9 Seaview Rd / Jessop St - North side,-32.501036,137.783631
+413003,Port Augusta,102524,Stop 9 Wastell St / Grand West Plains Rd - North side,-32.507816,137.844123
+413003,Port Augusta,102534,Stop McConnal Rd / Schuppan Rd - South side,-32.523221,137.837778
+413003,Port Augusta,102393,Tassie St / Warflands Esp - North side (Woolworths),-32.489892,137.762233
+413003,Port Augusta,102646,Walker St / Fullerton Cres - North side,-32.510924,137.777642
+415036,Port Broughton,102680,Bay St / East Tce - South side (Roadhouse Port Broughton),-33.60056,137.93294
+413004,Port Lincoln,103530,Dickens St / Casanova St (Port Lincoln),-34.737533,135.850004
+413004,Port Lincoln,103524,Duncan Ave / Paringa Ave (Port Lincoln),-34.723738,135.840379
+413004,Port Lincoln,103527,Flinders Hwy / Trigg St (Port Lincoln),-34.717306,135.844615
+413004,Port Lincoln,103539,Harvey St / Barnard St (Port Lincoln),-34.735291,135.872191
+413004,Port Lincoln,103532,Heath St / Verran Tce (Port Lincoln),-34.738978,135.853897
+413004,Port Lincoln,103533,Hecla St / Tacoma St (Port Lincoln),-34.739535,135.858327
+413004,Port Lincoln,102682,Lewis St / Washington St - North West side (Port Lincoln),-34.71905,135.85529
+413004,Port Lincoln,103536,London St / Knott St (Port Lincoln),-34.726123,135.874137
+413004,Port Lincoln,103534,Martindale Cres / Kuranda St (Port Lincoln),-34.740609,135.85982
+413004,Port Lincoln,103540,Matthew Pl - South side (Kirton Point Primary School),-34.7315,135.869562
+413004,Port Lincoln,103526,Mena Pl / Alexander Cr (Port Lincoln),-34.714611,135.843417
+413004,Port Lincoln,103542,Moonta Cres / Argent St (Port Lincoln),-34.740132,135.848865
+413004,Port Lincoln,103522,New West Rd / Western Approach Rd (Port Lincoln) - North West side,-34.735788,135.824931
+413004,Port Lincoln,103523,New West Rd / Western Approach Rd (Port Lincoln) - South East side,-34.735648,135.825476
+413004,Port Lincoln,103528,Park Tce / Telford Ave (Port Lincoln Junior Primary School),-34.722734,135.855815
+413004,Port Lincoln,103531,Passat St / Vigar St (Port Lincoln),-34.739478,135.846821
+413004,Port Lincoln,103535,Ravendale Rd / St Andrews Tce (Port Lincoln),-34.732544,135.866298
+413004,Port Lincoln,103529,Sellen St / Tennant St (Port Lincoln),-34.735786,135.851429
+413004,Port Lincoln,103525,Shaen St / Angas St (Port Lincoln),-34.705422,135.851059
+413004,Port Lincoln,103541,Stamford Tce / Follet St (Port Lincoln),-34.740204,135.862676
+413004,Port Lincoln,103537,Trafalgar St / Wavell Rd (Port Lincoln),-34.728326,135.878028
+413004,Port Lincoln,103538,Volante St / El Alamein St (Port Lincoln),-34.730359,135.877797
+413005,Port Pirie,103508,First St / The Terrace - North side (Port Pirie West Primary School),-33.18234,138.00322
+413005,Port Pirie,103514,Haslam Rd / Three Chain Rd (Solomontown Primary School),-33.190328,138.019745
+413005,Port Pirie,103512,Kingston Rd / Murdoch St - North side (Risdon Park Primary School),-33.203918,138.007996
+413005,Port Pirie,102670,Mary Elie St / Wandearah Rd (Port Pirie Tourism and Arts Centre),-33.181241,138.011244
+413005,Port Pirie,103510,Mid North Christian College (Risdon Park South),-33.210006,137.98891
+413005,Port Pirie,103281,Stop 1 Florence St / Norman St - East side (Woolworths),-33.17969,138.00974
+413005,Port Pirie,103290,Stop 10 Three Chain Rd / Wood St - East side,-33.19381,138.01703
+413005,Port Pirie,103339,Stop 10 Three Chain Rd / Wood St - West side,-33.19377,138.0168
+413005,Port Pirie,103291,Stop 11 Three Chain Rd / John St - East side (Whiskars Deli),-33.19623,138.016
+413005,Port Pirie,103340,Stop 11 Three Chain Rd / Smith St - West side,-33.1959,138.01597
+413005,Port Pirie,103292,Stop 12 Three Chain Rd / Afford Rd - East side,-33.19911,138.01482
+413005,Port Pirie,103341,Stop 12 Three Chain Rd / Afford Rd - West side,-33.19911,138.01461
+413005,Port Pirie,103293,Stop 13 Three Chain Rd - East side,-33.20208,138.01358
+413005,Port Pirie,103342,Stop 13 Three Chain Rd - West side,-33.2016,138.0136
+413005,Port Pirie,103343,Stop 14 Kingston Rd / Three Chain Rd - North side,-33.20392,138.01226
+413005,Port Pirie,103294,Stop 14 Kingston Rd / Three Chain Rd - South side,-33.20403,138.01217
+413005,Port Pirie,103344,Stop 15 Wandearah Rd / Butterick St - East side,-33.20223,138.01033
+413005,Port Pirie,103295,Stop 15 Wandearah Rd / Butterick St - West side,-33.2022,138.01018
+413005,Port Pirie,103296,Stop 16 Wandeara Rd / Knapman St - West side,-33.19986,138.01018
+413005,Port Pirie,103345,Stop 16 Wandearah Rd / Knapman St - East side,-33.19983,138.01033
+413005,Port Pirie,103346,Stop 17 Balmoral Rd / O'Loughlin Ave - North side,-33.19862,138.00909
+413005,Port Pirie,103297,Stop 17 Balmoral Rd / O'Loughlin Ave - South side,-33.19871,138.00897
+413005,Port Pirie,103347,Stop 18 Balmoral Rd / Murdoch St - North side,-33.19862,138.00725
+413005,Port Pirie,103298,Stop 18 Balmoral Rd / Murdock St - South side,-33.19872,138.00724
+413005,Port Pirie,103348,Stop 19 Balmoral Rd / The Terrace - North side,-33.19863,138.00471
+413005,Port Pirie,103299,Stop 19 Balmoral Rd / The Terrace - South side,-33.19875,138.00436
+413005,Port Pirie,103282,Stop 2 Main Rd - North East side (oppo McDonalds),-33.18035,138.01236
+413005,Port Pirie,103331,Stop 2 Main Rd - South West side (McDonalds),-33.1804,138.01196
+413005,Port Pirie,103349,Stop 20 Balmoral Rd / South St - North side,-33.19865,138.00116
+413005,Port Pirie,103300,Stop 20 Balmoral Rd / South St - South side,-33.19874,138.00137
+413005,Port Pirie,103350,Stop 21 Balmoral Rd / Senate Rd - North side,-33.19865,137.99825
+413005,Port Pirie,103301,Stop 21 Balmoral Rd / Senate Rd - South side,-33.19874,137.99803
+413005,Port Pirie,103302,Stop 22 Senate Rd / Jervis St - East side,-33.20119,137.99766
+413005,Port Pirie,103351,Stop 22 Senate Rd / Jervis St - West side,-33.20117,137.99753
+413005,Port Pirie,103303,Stop 23 Senate Rd / Kingston Rd - East side,-33.20349,137.99767
+413005,Port Pirie,103352,Stop 23 Senate Rd / Kingston Rd - West side,-33.20353,137.99755
+413005,Port Pirie,103304,Stop 24 Senate Rd / Cunningham Blvd - East side (Golf Course),-33.2081,137.997667
+413005,Port Pirie,103353,Stop 24 Senate Rd / Cunningham Blvd - West side (oppo Golf Course),-33.20809,137.99754
+413005,Port Pirie,103354,Stop 25 Ferme St / Senate Rd - North side,-33.21021,137.99713
+413005,Port Pirie,103305,Stop 25 Ferme St / Senate Rd - South side,-33.2103,137.99714
+413005,Port Pirie,103355,Stop 26 Creasy St / Ferme St - East side,-33.21005,137.99511
+413005,Port Pirie,103306,Stop 26 Creasy St / Ferme St - West side,-33.210014,137.995021
+413005,Port Pirie,103356,Stop 27 Creasy St / Hannan St - East side,-33.20746,137.99411
+413005,Port Pirie,103307,Stop 27 Creasy St / Hannan St - West side,-33.207437,137.994019
+413005,Port Pirie,103357,Stop 28 Hannan St / Hutchinson St - North side (Baptist Church),-33.20721,137.99273
+413005,Port Pirie,103308,Stop 28 Hannan St / Hutchinson St - South side (oppo Baptist Church),-33.207291,137.992639
+413005,Port Pirie,103358,Stop 29 Hannan St / Port Davis Rd - North East side,-33.20649,137.98971
+413005,Port Pirie,103309,Stop 29 Hannan St / Port Davis Rd - South West side,-33.20679,137.98985
+413005,Port Pirie,103283,Stop 3 Main Rd - North side (Yacht Club),-33.18217,138.01545
+413005,Port Pirie,103332,Stop 3 Main Rd - South side (oppo Yacht Club),-33.1827,138.01595
+413005,Port Pirie,103310,Stop 30 Anzac Rd / Norah St - West side,-33.20324,137.99122
+413005,Port Pirie,103359,Stop 30 Anzac Rd / Norah St -East side,-33.20335,137.99134
+413005,Port Pirie,103360,Stop 31 Anzac Rd / Swan St - East side (Airdale Primary School),-33.20035,137.99134
+413005,Port Pirie,103311,Stop 31 Anzac Rd / Swan St - West side (Airdale Primary School),-33.20057,137.99122
+413005,Port Pirie,103312,Stop 32 Balmoral Rd / Robinson St - North side (Balmoral Rd Shops),-33.19865,137.99214
+413005,Port Pirie,103361,Stop 32 Balmoral Rd / Robinson St - South side (Balmoral Rd Shops),-33.19875,137.99208
+413005,Port Pirie,103362,Stop 33 Caldecott St / Balmoral Rd - East side,-33.19838,137.99442
+413005,Port Pirie,103313,Stop 33 Caldecott St / Balmoral Rd - West side,-33.19838,137.99431
+413005,Port Pirie,103363,Stop 34 Caldecott St / Hackett St - East side,-33.19661,137.99441
+413005,Port Pirie,103314,Stop 34 Caldecott St / Hackett St - West side,-33.19665,137.99431
+413005,Port Pirie,103364,Stop 35 Caldecott St / Threadgold St - East side (Risdon Park),-33.19534,137.99442
+413005,Port Pirie,103315,Stop 35 Caldecott St / Threadgold St - West side (Threadgold Park),-33.19533,137.9943
+413005,Port Pirie,103365,Stop 36 Threadgold St / Esmond Rd - East side,-33.19359,137.994
+413005,Port Pirie,103316,Stop 36 Threadgold St / Esmond Rd - West side,-33.19359,137.99388
+413005,Port Pirie,103317,Stop 37 Esmond Rd / Senate Rd - North side (Macs Corner),-33.19333,137.997
+413005,Port Pirie,103366,Stop 37 Esmond Rd / Senate Rd - South side (Macs Corner),-33.19345,137.99691
+413005,Port Pirie,103318,Stop 38 Esmond Rd / Campbell St - North side,-33.19332,137.99874
+413005,Port Pirie,103367,Stop 38 Esmond Rd / Campbell St - South side,-33.19345,137.99872
+413005,Port Pirie,103319,Stop 39 Esmond Rd / Alfred St - North side,-33.19331,138.00108
+413005,Port Pirie,103368,Stop 39 Esmond Rd / Alfred St - South side,-33.19345,138.00106
+413005,Port Pirie,103284,Stop 4 Main Rd - North side (Skate Park),-33.18359,138.01872
+413005,Port Pirie,103333,Stop 4 Main Rd - South side (oppo Skate Park),-33.18395,138.01915
+413005,Port Pirie,103320,Stop 40 Esmond Rd / The Terrace - North side,-33.1933,138.00332
+413005,Port Pirie,103369,Stop 40 Esmond Rd / The Terrace - South side,-33.19345,138.00348
+413005,Port Pirie,103321,Stop 41 Esmond Rd / Wandearah Rd - North side,-33.19329,138.00983
+413005,Port Pirie,103370,Stop 41 Esmond Rd / Wandearah Rd - South side,-33.19343,138.00987
+413005,Port Pirie,103371,Stop 42 Wandearah Rd - East side (Repco),-33.1914,138.0103
+413005,Port Pirie,103322,Stop 42 Wandearah Rd - West side (oppo Repco),-33.19121,138.01015
+413005,Port Pirie,103323,Stop 43 Prime West Port Pirie (Kmart),-33.19062,138.00667
+413005,Port Pirie,103372,Stop 44 The Terrace / Seymour St - East side,-33.18839,138.00395
+413005,Port Pirie,103324,Stop 44 The Terrace / Seymour St - West side,-33.18842,138.00382
+413005,Port Pirie,103373,Stop 45 The Terrace / Moppett Rd - East side (Tennis Centre),-33.18579,138.00397
+413005,Port Pirie,103325,Stop 45 The Terrace / Moppett Rd - West side (oppo Tennis Centre),-33.18584,138.00382
+413005,Port Pirie,103374,Stop 46 The Terrace / Second St - East side (TAFE SA),-33.18334,138.00398
+413005,Port Pirie,103326,Stop 46 The Terrace / Second St - West side (oppo TafeSA),-33.18334,138.00382
+413005,Port Pirie,103375,Stop 47 The Terrace / Goode Rd - East side (Pirie West Primary School),-33.18203,138.00396
+413005,Port Pirie,103327,Stop 47 The Terrace / Goode Rd - West side (Pirie West Primary School),-33.18195,138.00382
+413005,Port Pirie,103328,Stop 48 Alexander St / The Terrace - North side (Port Pirie Hospital),-33.17794,138.00495
+413005,Port Pirie,103376,Stop 48 Alexander St / The Terrace -South side (Port Pirie Hospital),-33.17816,138.00451
+413005,Port Pirie,103329,Stop 49 Alexander St / Gertrude St - North side,-33.17761,138.00672
+413005,Port Pirie,103377,Stop 49 Alexander St / Gertrude St - South side,-33.17771,138.00684
+413005,Port Pirie,103285,Stop 5 Main Rd - North side (oppo Ampol),-33.18429,138.02052
+413005,Port Pirie,103334,Stop 5 Main Rd - South side (Ampol),-33.18463,138.0209
+413005,Port Pirie,103330,Stop 50 Ellen St / Alexander St - West side,-33.17734,138.0102
+413005,Port Pirie,103286,Stop 6 Geddes Rd / Warnertown Rd - East side,-33.18623,138.02363
+413005,Port Pirie,103335,Stop 6 Geddes Rd / Warnertown Rd - West side,-33.18627,138.02349
+413005,Port Pirie,103336,Stop 7 Moorhouse St / Burt St - North side,-33.18784,138.02226
+413005,Port Pirie,103287,Stop 7 Moorhouse St / Burt St - South side,-33.18794,138.02214
+413005,Port Pirie,103337,Stop 8 Moorhouse St / Three Chain Rd - North side,-33.18724,138.02062
+413005,Port Pirie,103288,Stop 8 Moorhouse St / Three Chain Rd - South side,-33.18728,138.02049
+413005,Port Pirie,103289,Stop 9 Three Chain Rd / Daisy St - East side,-33.18796,138.01975
+413005,Port Pirie,103338,Stop 9 Three Chain Rd / Daisy St - West side,-33.18789,138.0196
+413005,Port Pirie,103511,The Terrace (Saint Mark's College Secondary Campus),-33.205352,138.004249
+413005,Port Pirie,103509,Wandearah Rd (John Pirie Secondary School),-33.182931,138.010949
+413005,Port Pirie,103513,Wandearah Rd (Saint Mark's College Primary Campus),-33.205612,138.011029
+421034,Quorn (L),103497,Railway Tce / Horrocks Hwy - North side (Transcontinental Hotel Quorn),-32.34592,138.040115
+421034,Quorn (L),103463,Railway Tce / Horrocks Hwy - South side (Transcontinental Hotel Quorn),-32.346081,138.040181
+415037,Renmark,103278,Cowra St / Seventeenth St - North West side (Renmark),-34.171188,140.743375
+415037,Renmark,103277,Cowra St / Seventeenth St - South East side (Renmark),-34.171261,140.743494
+415037,Renmark,103556,Nineteenth St - East side (Renmark High School),-34.174385,140.741737
+415037,Renmark,102457,Nineteenth St - East side (Renmark Plaza),-34.177699,140.744923
+415037,Renmark,102458,Nineteenth St - West side (Renmark Plaza),-34.177646,140.74481
+415037,Renmark,103265,Remark Ave - North West side (Renmark Bus Bay),-34.172555,140.749219
+415037,Renmark,103268,Remark Ave - South East side (Renmark Bus Bay),-34.172766,140.749045
+415037,Renmark,103560,Seventeenth St / Cowra St - East side (Chaffey Theatre),-34.171202,140.742988
+415037,Renmark,103557,Seventeenth St / Thurk St - West side (Chaffey Theatre),-34.171259,140.742761
+415037,Renmark,103280,Twentyfirst St / Grevillea St - East side (Renamark),-34.178981,140.734097
+415037,Renmark,103279,Twentyfirst St / Grevillea St - East side (Renamark),-34.178929,140.734194
+415038,Robe,102716,Main Rd / Robe St - South side (Robe Auto and Marine),-37.165575,139.762783
+414005,Strathalbyn,102469,Albion Dr / Long Valley Rd - North side (Strathalbyn),-35.241012,138.895479
+414005,Strathalbyn,102474,Ashbourne Rd / Rushmore Rd - North side (Strathalbyn),-35.264487,138.871819
+414005,Strathalbyn,102475,Avenue Rd / Brideson Rd - South side (Strathalbyn),-35.246455,138.897097
+414005,Strathalbyn,102337,Callington Rd - South side (Eastern Fleurieu School 7-12),-35.25734,138.90086
+414005,Strathalbyn,102344,Callington Rd / Thomas St - North side (Eastern Fleurieu School 7-12),-35.25727,138.90076
+414005,Strathalbyn,102343,East Tce - East side (Eastern Fleurieu School Strathalbyn R-6 Campus),-35.25619,138.8973
+414005,Strathalbyn,102339,East Tce / Chapel St - West side (Tyndale Christian School Strathalbyn),-35.25505,138.89643
+414005,Strathalbyn,102342,East Tce / Gollan Ave - East side (Tyndale Christian School Strathalbyn),-35.25493,138.8965
+414005,Strathalbyn,102338,East Tce / Rowe St - West side (Eastern Fleurieu School Strathalbyn R-6 Campus),-35.25624,138.89719
+414005,Strathalbyn,102468,Milnes Rd / Adams Rd - East side (Strathalbyn),-35.26336,138.891293
+414005,Strathalbyn,102467,Milnes Rd / Adams Rd - West side (Strathalbyn),-35.263478,138.891202
+414005,Strathalbyn,101907,Stop Commercial Rd / Jeff St - West side,-35.256086,138.888582
+414005,Strathalbyn,101908,Stop North Pde / Murray St - North side,-35.252251,138.892889
+414005,Strathalbyn,101909,Stop North Pde / Murray St - South side,-35.252619,138.892306
+414005,Strathalbyn,7303,Stop Strathalbyn South Tce,-35.260859,138.89196
+415040,Tailem Bend,102287,Railway Tce / Granites Rd - North East side (Tailem Bend),-35.25255,139.45321
+415040,Tailem Bend,102286,Railway Tce / Granites Rd - South West side (Tailem Bend),-35.2526,139.45313
+415041,Tanunda,102021,Langmeil Rd / Homburg St - East side (Tanunda),-34.515366,138.959992
+415041,Tanunda,102022,Langmeil Rd / Smythe St - West side (Tanunda),-34.515016,138.959938
+415041,Tanunda,102372,Magnolia Rd - North side (Barossa Aquatic and Fitness Centre),-34.51856,138.97922
+415041,Tanunda,102026,Maria St / Jane Pl - East side (Faith Lutheran Jr College),-34.526301,138.954119
+415041,Tanunda,102051,Maria St / Jane Pl - West side (Faith Lutheran Jr College),-34.526118,138.954144
+415041,Tanunda,102018,Murray St / Bushman St - South East side (Tanunda PO),-34.52511,138.95893
+415041,Tanunda,102213,Murray St / Para Rd - East side (Tanunda BP),-34.511934,138.975798
+415041,Tanunda,102023,Murray St / Para Rd - West side (Tanunda BP),-34.51155,138.97585
+415041,Tanunda,102019,Young St / Murray St - North West side (Tanunda),-34.525614,138.95811
+415042,Tumby Bay,102683,North Tce / Lipson Rd - West side (Friendly Grocer Tumby Bay),-34.37489,136.10251
+413006,Victor Harbor,102988,Adelaide Rd -West side (Southern Cross Care McCracken),-35.52995,138.63751
+413006,Victor Harbor,102990,Adelaide Rd / Agnes Gillespie Dr - East side (Hayborough),-35.52975,138.63757
+413006,Victor Harbor,102982,Bartel Blvd / Gibson Ave - North East side (Encounter Bay),-35.56615,138.60723
+413006,Victor Harbor,102975,Bartel Blvd / Nicholas Baudin Dr - South West side (Encounter Bay),-35.5662,138.60714
+413006,Victor Harbor,102987,Cottesloe Ave / Sutherland Ave - East Side (Hayborough),-35.53474,138.6458
+413006,Victor Harbor,103561,Dromana Pde / Ocean Rd - North side (Hayborough),-35.532667,138.650842
+413006,Victor Harbor,102979,Encounter Lutheran College (Hayborough),-35.52707,138.6374
+413006,Victor Harbor,102976,George Main Rd - North East side (Victor Harbor High School),-35.55597,138.60986
+413006,Victor Harbor,102989,Investigator College (Victor Harbor),-35.5548,138.59778
+413006,Victor Harbor,102974,Jagger Rd / Franklin Pde - West side (Encounter Bay),-35.58627,138.59788
+413006,Victor Harbor,102983,Jagger Rd / Investigator Cres - South side (Encounter Bay),-35.58734,138.59711
+413006,Victor Harbor,102971,Mill Rd - South East side (Encounter Bay),-35.55813,138.5984
+413006,Victor Harbor,102986,Mill Rd / Nation Ct - North West Side (Encounter Bay),-35.55781,138.5986
+413006,Victor Harbor,102977,Oval Rd / Victoria St -West side (Victor Harbor Kindergarten),-35.55711,138.6152
+413006,Victor Harbor,102981,Oval Rd / Vkingsford St - East side (Victor Harbor Kindergarten),-35.55711,138.61533
+413006,Victor Harbor,102968,Stop 1 Stuart St / Torrens St - East side (Victor Harbor),-35.55327,138.62205
+413006,Victor Harbor,102966,Stop 10 North Tce / Charteris St - South side (Port Elliot),-35.53054,138.67965
+413006,Victor Harbor,102958,Stop 10 North Tce / William St - North side (Port Elliot),-35.53039,138.67977
+413006,Victor Harbor,103563,Stop 2 Hindmarsh Rd - South East side (Victor Harbor),-35.546598,138.626453
+413006,Victor Harbor,103562,Stop 2 Hindmarsh Rd / Pine Ave - North West side (Victor Harbor),-35.54637,138.626493
+413006,Victor Harbor,103572,Stop 2 Victoria St / Burke St - North side (Victor Harbor),-35.556391,138.618945
+413006,Victor Harbor,103573,Stop 2 Victoria St / King St - South side (Victor Harbor),-35.556548,138.619256
+413006,Victor Harbor,103571,Stop 3 Bay Rd / Habour View Tce - South side (Victor Harbor),-35.560624,138.606887
+413006,Victor Harbor,103570,Stop 3 Bay Rd / Phillip Ave - North side (Victor Harbor),-35.560557,138.60674
+413006,Victor Harbor,103565,Stop 3 Hindmarsh Rd - South East side (McCracken),-35.54289,138.630072
+413006,Victor Harbor,103564,Stop 3 Hindmarsh Rd / Wattle Dr - North West side (McCracken),-35.542702,138.63006
+413006,Victor Harbor,103566,Stop 4 Hindmarsh Rd / Beaumont St - North side (McCracken),-35.54131,138.633056
+413006,Victor Harbor,103567,Stop 4 Hindmarsh Rd / Hayward Ct - South side (McCracken),-35.541518,138.632803
+413006,Victor Harbor,102956,Stop 4 Maude St - East side (Victor Harbor),-35.56159,138.60323
+413006,Victor Harbor,102969,Stop 4 Maude St / Bay Rd - West side (Victor Harbor),-35.561921,138.603189
+413006,Victor Harbor,103569,Stop 5 Hindmarsh Rd / Hardy St - South East side (McCracken),-35.539977,138.636791
+413006,Victor Harbor,103568,Stop 5 Hindmarsh Rd / Tyrone St (McCracken),-35.539889,138.636556
+413006,Victor Harbor,103008,Stop 6 Port Elliot Rd / Kerr Grv - North side (Hayborough),-35.536155,138.641305
+413006,Victor Harbor,103007,Stop 6 Port Elliot Rd / Wilkinson Ave - South side (Hayborough),-35.536361,138.640805
+413006,Victor Harbor,103009,Stop 7 Port Elliot Rd / Ramsgate Ave - North side (Hayborough),-35.53529,138.6471
+413006,Victor Harbor,103006,Stop 7 Port Elliot Rd / Rosetta Ave - South side (Victor Harbour),-35.535429,138.646956
+413006,Victor Harbor,102967,Stop 8 Port Elliot Rd - South side (Hayborough),-35.53481,138.65107
+413006,Victor Harbor,102957,Stop 8 Port Elliot Rd / Ocean Rd - North side (Hayborough),-35.53468,138.65108
+413006,Victor Harbor,102972,Tabernacle Rd - North East side (Estia Health Encounter Bay),-35.56497,138.59541
+413006,Victor Harbor,102985,Tabernacle Rd - South West side (Estia Health Encounter Bay),-35.56503,138.59528
+413006,Victor Harbor,102980,The Parkway - North East side (Victor Harbor R-7 School),-35.54157,138.62411
+413006,Victor Harbor,102978,The Parkway - North West side (Victor Harbor R-7 School),-35.54192,138.62428
+413006,Victor Harbor,102973,Whalers Rd / Sweetman Ave - North East side (Encounter Bay),-35.57228,138.59208
+413006,Victor Harbor,102984,Whalers Rd / White Cres - South West side (Encounter Bay),-35.57231,138.59196
+415045,Waikerie,102694,Ian Oliver Dr - South side (Waikerie Garden Centre),-34.18106,139.98837
+415045,Waikerie,102359,Sichler St / Elders Wy - South side (Waikerie),-34.185,139.98106
+415045,Waikerie,102360,Strangman Rd - North East side (Waikerie Civic Centre),-34.18211,139.98616
+415045,Waikerie,102362,Strangman Rd - South West side (Waikerie Civic Centre),-34.18217,139.98605
+415045,Waikerie,102363,West Rd / Allen St - South side (Waikerie),-34.18094,139.97852
+415045,Waikerie,102358,West Rd / Mary Starr Dr - North side (Waikerie),-34.18082,139.97866
+415046,Wallaroo,102783,Charles Tce / Irwine St - North East side (Wallaroo Service Station),-33.92951,137.632
+415046,Wallaroo,102794,Charles Tce / Irwine St - South West side (Wallaroo Service Station),-33.92956,137.63181
+415046,Wallaroo,102784,Charles Tce / Victoria St - North East side (Wallaroo),-33.934427,137.637742
+415046,Wallaroo,102793,Charles Tce / Victoria St - South West side (Wallaroo),-33.93447,137.63765
+415046,Wallaroo,102782,Emu St / Jetty Rd - North West side (Wallaroo Museum),-33.92985,137.62675
+415046,Wallaroo,102795,Emu St / Jetty Rd - South East side (Wallaroo Museum),-33.92993,137.62685
+415046,Wallaroo,102781,Spencer Hwy / Clara St - West side (Wallaroo Rotunda),-33.93279,137.62329
+415046,Wallaroo,102776,Spencer Hwy / John Tce - North West side (oppo Wallaroo Town Hall),-33.93259,137.62758
+415046,Wallaroo,102775,Spencer Hwy / John Tce - South East side (Wallaroo Town Hall),-33.93276,137.62748
+412004,Whyalla,103032,Darling Tce / Patterson St - East side (Post Office),-33.03458,137.58569
+412004,Whyalla,102677,Moran St / Cartledge Ave - East side (Whyalla Statleliner Terminal),-33.033212,137.53075
+412004,Whyalla,103031,Shiell St / Mills St - West side (Bedford),-33.03548,137.553642
+412004,Whyalla,103222,Stop 1 Mullaquana Rd / Berkshire Rd - South East side,-33.063811,137.529407
+412004,Whyalla,103085,Stop 10 Bradford St / Wileman St - North side,-33.035866,137.570386
+412004,Whyalla,103084,Stop 10 Bradford St / Wileman St - South side,-33.036201,137.570642
+412004,Whyalla,103050,Stop 10 Lacey St / Peters St - North side,-33.025447,137.568954
+412004,Whyalla,103049,Stop 10 Lacey St / Peters St - South side,-33.02574,137.56949
+412004,Whyalla,103137,Stop 10 Lincoln Hwy / Bradford St - East side,-33.032071,137.565836
+412004,Whyalla,103136,Stop 10 Lincoln Hwy / Bradford St - West side,-33.031903,137.565656
+412004,Whyalla,103087,Stop 11 Bradford St / Lockhart St - North side,-33.033755,137.567402
+412004,Whyalla,103086,Stop 11 Bradford St / Lockhart St - South side,-33.033868,137.567351
+412004,Whyalla,103052,Stop 11 Lacey St / Rudall Ave - North side,-33.024786,137.566165
+412004,Whyalla,103051,Stop 11 Lacey St / Rudall Ave - South side,-33.0251,137.56679
+412004,Whyalla,103139,Stop 11 Playford Ave / Elliot St - East side,-33.030152,137.567708
+412004,Whyalla,103138,Stop 11 Playford Ave / Elliot St - West side,-33.029602,137.567894
+412004,Whyalla,103089,Stop 12 Bradford St / Peters St - North side,-33.031768,137.564555
+412004,Whyalla,103088,Stop 12 Bradford St / Peters St - South side,-33.031846,137.564443
+412004,Whyalla,103141,Stop 12 Elliott St / Brealey St - North side,-33.028357,137.565909
+412004,Whyalla,103140,Stop 12 Elliott St / Brealey St - South side,-33.028416,137.565428
+412004,Whyalla,103054,Stop 12 Lacey St / New Whyalla Hotel - North side,-33.023241,137.562461
+412004,Whyalla,103053,Stop 12 Lacey St / New Whyalla Hotel - South side,-33.02333,137.56242
+412004,Whyalla,103091,Stop 13 Bradford St / McConville St - North side,-33.029877,137.561792
+412004,Whyalla,103090,Stop 13 Bradford St / McConville St - South side,-33.030034,137.561694
+412004,Whyalla,103143,Stop 13 Elliott St / Wright St - North side,-33.026997,137.562613
+412004,Whyalla,103142,Stop 13 Elliott St / Wright St - South side,-33.027352,137.56279
+412004,Whyalla,103056,Stop 13 Lacey St / Field St - North side,-33.022678,137.561107
+412004,Whyalla,103055,Stop 13 Lacey St / Field St - South side,-33.02262,137.56066
+412004,Whyalla,103093,Stop 14 Bradford St / Dalziel St - North side,-33.028562,137.56003
+412004,Whyalla,103092,Stop 14 Bradford St / Dalziel St - South side,-33.028897,137.560109
+412004,Whyalla,103145,Stop 14 Gowrie Ave / McIntosh St - North side,-33.024033,137.556885
+412004,Whyalla,103144,Stop 14 Gowrie Ave / McIntosh St - South side,-33.024243,137.556683
+412004,Whyalla,103058,Stop 14 Lacey St / Arthur St - North East side,-33.021215,137.557974
+412004,Whyalla,103057,Stop 14 Lacey St / Arthur St - South West side,-33.02134,137.55802
+412004,Whyalla,103147,Stop 15 Gowrie Ave / McEwin St - North side,-33.023925,137.55332
+412004,Whyalla,103146,Stop 15 Gowrie Ave / McEwin St - South side,-33.024129,137.553138
+412004,Whyalla,103060,Stop 15 Lacey St / Beatty St - North side,-33.020376,137.556395
+412004,Whyalla,103059,Stop 15 Lacey St / Beatty St - South side,-33.02045,137.55638
+412004,Whyalla,103095,Stop 15 Nicolson Ave / Billing St - North side,-33.027974,137.556084
+412004,Whyalla,103094,Stop 15 Nicolson Ave / Billing St - South side,-33.02821,137.55585
+412004,Whyalla,103097,Stop 16 Nicolson Ave / St John Cres - North side,-33.027957,137.553738
+412004,Whyalla,103096,Stop 16 Nicolson Ave / St John Cres - South side,-33.028212,137.553833
+412004,Whyalla,103149,Stop 17 Jackson Ave / Ryan Ave - North side,-33.02344,137.547925
+412004,Whyalla,103148,Stop 17 Jackson Ave / Ryan Ave - South side,-33.023624,137.547671
+412004,Whyalla,103063,Stop 17 Jenkins Ave / Murn Cres - North side,-33.018228,137.550515
+412004,Whyalla,103062,Stop 17 Jenkins Ave / Murn Cres - South side,-33.01851,137.55049
+412004,Whyalla,103098,Stop 17 Norrie Ave / Rigney St - East side,-33.030553,137.551379
+412004,Whyalla,103099,Stop 17 Norrie Ave / Rigney St - West side,-33.029888,137.551016
+412004,Whyalla,103151,Stop 18 Jackson Ave / Nelligan St - North side,-33.023455,137.545007
+412004,Whyalla,103150,Stop 18 Jackson Ave / Nelligan St - South side,-33.023636,137.54472
+412004,Whyalla,103065,Stop 18 Jenkins Ave / Hincks Ave - North side,-33.017045,137.546985
+412004,Whyalla,103064,Stop 18 Jenkins Ave / Hincks Ave - South side,-33.01755,137.54741
+412004,Whyalla,103100,Stop 18 Norrie Ave / Penglase St - East side,-33.033488,137.551382
+412004,Whyalla,103101,Stop 18 Norrie Ave / Penglase St - West side,-33.032406,137.550972
+412004,Whyalla,103067,Stop 19 Jenkins Ave / George Ave - North side,-33.01578,137.542583
+412004,Whyalla,103066,Stop 19 Jenkins Ave / George Ave - South side,-33.01615,137.54308
+412004,Whyalla,103102,Stop 19 Norrie Ave / Mills St - East side,-33.034932,137.551387
+412004,Whyalla,103103,Stop 19 Norrie Ave / Mills St - West side,-33.034802,137.551057
+412004,Whyalla,103153,Stop 19 Viscount Slim Ave / Scobie St - North side,-33.022042,137.54347
+412004,Whyalla,103152,Stop 19 Viscount Slim Ave / Scobie St - South side,-33.022158,137.543397
+412004,Whyalla,103120,Stop 2 Darling Tce / Walls St - East side,-33.036501,137.584257
+412004,Whyalla,103121,Stop 2 Darling Tce / Walls St - West side,-33.036541,137.584406
+412004,Whyalla,103155,Stop 2 Dolandson Tce / Farrell St - North East side,-33.034024,137.582731
+412004,Whyalla,103154,Stop 2 Dolandson Tce / Farrell St - South West side,-33.0341,137.58257
+412004,Whyalla,103034,Stop 2 Donaldson Tce / Darling Tce - North East side,-33.035273,137.584198
+412004,Whyalla,103033,Stop 2 Donaldson Tce / Darling Tce - South West side,-33.03534,137.58415
+412004,Whyalla,103069,Stop 20 Jenkins Ave / Colin St - North side,-33.015217,137.538836
+412004,Whyalla,103068,Stop 20 Jenkins Ave / Colin St - South side,-33.01547,137.5388
+412004,Whyalla,103105,Stop 20 Mills St / Heath St - North side,-33.035007,137.549554
+412004,Whyalla,103104,Stop 20 Mills St / Heath St - South side,-33.035121,137.549638
+412004,Whyalla,103157,Stop 20 Viscount Slim Ave / George Ave - North side,-33.02126,137.540472
+412004,Whyalla,103156,Stop 20 Viscount Slim Ave / George Ave - South side,-33.021384,137.540339
+412004,Whyalla,103577,Stop 21 Jacobs St - South side (Foodbank Whyalla),-33.039391,137.549768
+412004,Whyalla,103576,Stop 21 Jacobs St / Story St - North side (Foodbank Whyalla),-33.039297,137.549643
+412004,Whyalla,103071,Stop 21 Jenkins Ave / Fisk St - North side,-33.014872,137.535265
+412004,Whyalla,103070,Stop 21 Jenkins Ave / Fisk St - South side,-33.01515,137.53475
+412004,Whyalla,103159,Stop 21 Viscount Slim Ave / Fisk St - North side,-33.020791,137.53461
+412004,Whyalla,103158,Stop 21 Viscount Slim Ave / Fisk St - South side,-33.020935,137.535133
+412004,Whyalla,103073,Stop 22 Jenkins Ave / Pattinson Cl - North side,-33.015243,137.53175
+412004,Whyalla,103072,Stop 22 Jenkins Ave / Pattinson Cl - South side,-33.01554,137.53184
+412004,Whyalla,103160,Stop 22 Mcdouall Stuart Ave / Viscount Slim Ave - East side,-33.021634,137.531873
+412004,Whyalla,103161,Stop 22 Mcdouall Stuart Ave / Viscount Slim Ave - West side,-33.021512,137.531543
+412004,Whyalla,103109,Stop 22 Smoker St / Paltridge St - East side,-33.035067,137.544735
+412004,Whyalla,103108,Stop 22 Smoker St / Paltridge St - West side,-33.035224,137.544744
+412004,Whyalla,103075,Stop 23 Jenkins Ave / Brook St - North side,-33.016254,137.528053
+412004,Whyalla,103074,Stop 23 Jenkins Ave / Brook St - South side,-33.01654,137.5281
+412004,Whyalla,103162,Stop 23 Mcdouall Stuart Ave / McRitchie Cres - East side,-33.024086,137.53155
+412004,Whyalla,103163,Stop 23 Mcdouall Stuart Ave / McRitchie Cres - West side,-33.023195,137.531489
+412004,Whyalla,103111,Stop 23 Russell St - North side (UniSA Accommodation),-33.032793,137.54676
+412004,Whyalla,103110,Stop 23 Russell St - South side (UniSA Accommodation),-33.032855,137.546902
+412004,Whyalla,103207,Stop 24 Flinders Ave / McDouall Stuart Ave - North side,-33.030288,137.527851
+412004,Whyalla,103208,Stop 24 Flinders Ave / McDouall Stuart Ave - South side,-33.030471,137.527827
+412004,Whyalla,103076,Stop 24 McRitchie Cres / Jenkins Ave - East side,-33.01763,137.52568
+412004,Whyalla,103077,Stop 24 McRitchie Cres / Jenkins Ave - West side,-33.017609,137.525497
+412004,Whyalla,103112,Stop 24 Russell St - East side (UniSA Main Building),-33.029641,137.54832
+412004,Whyalla,103113,Stop 24 Russell St - West side (UniSA Main Building),-33.02974,137.548219
+412004,Whyalla,103209,Stop 25 Flinders Ave / White St - North side,-33.02916,137.523916
+412004,Whyalla,103210,Stop 25 Flinders Ave / White St - South side,-33.029285,137.523896
+412004,Whyalla,103078,Stop 25 McRitchie Cres / Booth St - East side,-33.02031,137.5267
+412004,Whyalla,103079,Stop 25 McRitchie Cres / Booth St - West side,-33.020277,137.526502
+412004,Whyalla,103115,Stop 25 Nicolson Ave / Hincks Ave - North side,-33.027995,137.54553
+412004,Whyalla,103114,Stop 25 Nicolson Ave / Hincks Ave - South side,-33.028287,137.545852
+412004,Whyalla,103080,Stop 26 McRitchie Cres / Sutcliffe St - North East side,-33.02279,137.528
+412004,Whyalla,103081,Stop 26 McRitchie Cres / Sutcliffe St - South West side,-33.022995,137.528115
+412004,Whyalla,103117,Stop 26 Nicolson Ave - North side (Spencer Institute Whyalla),-33.027982,137.541277
+412004,Whyalla,103116,Stop 26 Nicolson Ave - South side (Spencer Institute Whyalla),-33.028265,137.541626
+412004,Whyalla,103211,Stop 26 Noble St / Cyril St - East side,-33.031348,137.522113
+412004,Whyalla,103082,Stop 27 McRitchie Cres / Brook St - North side,-33.02336,137.53011
+412004,Whyalla,103083,Stop 27 McRitchie Cres / Brook St - South side,-33.023491,137.530004
+412004,Whyalla,103119,Stop 27 Nicolson Ave / Searle St - North side,-33.027109,137.537034
+412004,Whyalla,103118,Stop 27 Nicolson Ave / Searle St - South side,-33.027388,137.536962
+412004,Whyalla,103212,Stop 27 Noble St / Cartledge Ave - East side,-33.033552,137.521946
+412004,Whyalla,103213,Stop 28 Cartledge Ave - South side,-33.033849,137.519661
+412004,Whyalla,103178,Stop 28 McDouall Stuart Ave / Henry St - East side,-33.03138,137.52925
+412004,Whyalla,103179,Stop 28 McDouall Stuart Ave / Henry St - West side,-33.031192,137.52897
+412004,Whyalla,103193,Stop 28 Nicolson Ave / Toai St - North side,-33.025071,137.52784
+412004,Whyalla,103192,Stop 28 Nicolson Ave / Toai St - South side,-33.0254,137.528039
+412004,Whyalla,103180,Stop 29 Cartledge Ave / Moran St - North side,-33.03426,137.5305
+412004,Whyalla,103214,Stop 29 Cartledge Ave / Winton St - South side,-33.032397,137.51588
+412004,Whyalla,103195,Stop 29 Nicolson Ave / Angas St - North side,-33.023698,137.522896
+412004,Whyalla,103194,Stop 29 Nicolson Ave / Angas St - South side,-33.023909,137.522695
+412004,Whyalla,103123,Stop 3 Broadbent Tce / Roberts Tce - North side,-33.039616,137.580936
+412004,Whyalla,103122,Stop 3 Broadbent Tce / Roberts Tce - South side,-33.039805,137.580819
+412004,Whyalla,103165,Stop 3 Donaldson Tce / Wood Tce - North East side,-33.032863,137.581227
+412004,Whyalla,103164,Stop 3 Donaldson Tce / Wood Tce - South West side,-33.03273,137.5808
+412004,Whyalla,103036,Stop 3 Farrell St / Cudmore Tce - North West side,-33.035719,137.581539
+412004,Whyalla,103035,Stop 3 Farrell St / Cudmore Tce - South East side,-33.03584,137.58161
+412004,Whyalla,103215,Stop 30 Cartledge Ave / Shard St - South side,-33.031295,137.513084
+412004,Whyalla,103181,Stop 30 Erye Ave / Rosemary St - East side,-33.03739,137.53215
+412004,Whyalla,103197,Stop 30 Nicolson Ave / David St - North East side,-33.022283,137.520887
+412004,Whyalla,103196,Stop 30 Nicolson Ave / David St - South West side,-33.022616,137.520866
+412004,Whyalla,103182,Stop 31 Eyre Ave / Dowd St - East side,-33.03916,137.53176
+412004,Whyalla,103216,Stop 31 Jenkins Ave / Fitzgerald Ave - West side,-33.026317,137.514835
+412004,Whyalla,103198,Stop 31 Jenkins Ave / Hughes St - North West side,-33.020021,137.520159
+412004,Whyalla,103183,Stop 32 Eyre Ave / Kloeden St - East side,-33.04172,137.53243
+412004,Whyalla,103217,Stop 32 Flinders Ave / Bevan Cres - North side,-33.026232,137.516627
+412004,Whyalla,103199,Stop 32 Jenkins Ave / Bastyan Cres - North side,-33.017427,137.523804
+412004,Whyalla,103200,Stop 33 Bastyan Cres / Michelmore St - South side,-33.015359,137.522742
+412004,Whyalla,103218,Stop 33 Flinders Ave / Heading St - North side,-33.027084,137.518737
+412004,Whyalla,103184,Stop 33 Kloeden St / McDouall Stuart Ave - South side,-33.04294,137.52901
+412004,Whyalla,103201,Stop 34 Bastyan Cres / Bailey St - South side,-33.016252,137.518718
+412004,Whyalla,103219,Stop 34 Flinders Ave - North side,-33.028366,137.521913
+412004,Whyalla,103185,Stop 34 Stirling Dr / Yacca St - South side,-33.04192,137.52707
+412004,Whyalla,103220,Stop 35 Ian St / Moran St - North side,-33.029868,137.530525
+412004,Whyalla,103202,Stop 35 Nicolson Ave / Bastyan Cres - East side,-33.018529,137.51624
+412004,Whyalla,103186,Stop 35 Stirling Dr / Grevillea St - West side,-33.0415,137.52351
+412004,Whyalla,103221,Stop 36 Ekblom St / Kelleher St - West side,-33.029643,137.534591
+412004,Whyalla,103187,Stop 36 Menard St / Wattle St - North side,-33.03826,137.52356
+412004,Whyalla,103203,Stop 36 Parfitt St / Reine Cres - South side,-33.020976,137.514824
+412004,Whyalla,103188,Stop 37 Menard St / Acacia Dr - North side (Harris Scarfes),-33.0383,137.52689
+412004,Whyalla,103204,Stop 37 Risby Ave - North side,-33.023163,137.513372
+412004,Whyalla,103189,Stop 38 McDouall Stuart Ave / Brodie St - West side,-33.03644,137.5282
+412004,Whyalla,103190,Stop 38 Mcdouall Stuart Ave / Cartledge Ave - West side,-33.033273,137.528516
+412004,Whyalla,103205,Stop 38 Risby Ave / Jenkins Ave - North side,-33.023829,137.51598
+412004,Whyalla,103206,Stop 39 Jenkins Ave / Jerram Cl - West side,-33.022325,137.517782
+412004,Whyalla,103191,Stop 39 Mcdouall Stuart Ave / Cartledge Ave - East side,-33.033259,137.528868
+412004,Whyalla,103125,Stop 4 Broadbent Tce / Walker Cres - North side,-33.040598,137.578455
+412004,Whyalla,103124,Stop 4 Broadbent Tce / Walker Cres - South side,-33.040574,137.578841
+412004,Whyalla,103038,Stop 4 Elliott St / Essington Lewis Ave - North East side,-33.035237,137.576716
+412004,Whyalla,103037,Stop 4 Elliott St / Essington Lewis Ave - South West side,-33.03491,137.57588
+412004,Whyalla,103167,Stop 4 Wood Tce / Roberts Tce - North West side,-33.034175,137.578497
+412004,Whyalla,103166,Stop 4 Wood Tce / Roberts Tce - South East side,-33.03413,137.57877
+412004,Whyalla,103040,Stop 5 Elliott St / Wileman St - North East side,-33.032932,137.573452
+412004,Whyalla,103039,Stop 5 Elliott St / Wileman St - South West side,-33.03334,137.57362
+412004,Whyalla,103169,Stop 5 Essington Lewis Ave - North West side (Foodland Whyalla),-33.036414,137.573703
+412004,Whyalla,103168,Stop 5 Essington Lewis Ave - South East side (Foodland Whyalla),-33.03663,137.57379
+412004,Whyalla,103127,Stop 5 Newton St / Victoria Cl - North side,-33.0426,137.576513
+412004,Whyalla,103126,Stop 5 Newton St / Victoria Cl - South side,-33.042705,137.576351
+412004,Whyalla,103042,Stop 6 Elliott St / Raws St - North East side,-33.031147,137.570912
+412004,Whyalla,103041,Stop 6 Elliott St / Raws St - South West side,-33.03191,137.57157
+412004,Whyalla,103171,Stop 6 Hambidge Tce / Essington Lewis Ave - North East side,-33.038889,137.570941
+412004,Whyalla,103170,Stop 6 Hambidge Tce / Essington Lewis Ave - South West side,-33.03875,137.5705
+412004,Whyalla,103129,Stop 6 Newton St / Kirwan St - North side,-33.042458,137.574603
+412004,Whyalla,103128,Stop 6 Newton St / Kirwan St - South side,-33.042535,137.574006
+412004,Whyalla,103131,Stop 7 Broadbent Tce / Wood Tce - North side,-33.041012,137.571647
+412004,Whyalla,103130,Stop 7 Broadbent Tce / Wood Tce - South side,-33.041094,137.571251
+412004,Whyalla,103044,Stop 7 Elliott St / Playford Ave - North East side,-33.029697,137.568817
+412004,Whyalla,103043,Stop 7 Elliott St / Playford Ave - South West side,-33.02994,137.56879
+412004,Whyalla,103173,Stop 7 Hambidge Tce / Wileman St - North side,-33.037472,137.568925
+412004,Whyalla,103172,Stop 7 Hambidge Tce / Wileman St - South side,-33.037817,137.569172
+412004,Whyalla,103133,Stop 8 Essington Lewis Ave / Hambridge Tce - East side,-33.039952,137.570545
+412004,Whyalla,103132,Stop 8 Essington Lewis Ave / Hambridge Tce - West side,-33.039834,137.570339
+412004,Whyalla,103175,Stop 8 Hambidge Tce / Raws St - North side,-33.0359,137.566671
+412004,Whyalla,103174,Stop 8 Hambidge Tce / Raws St - South side,-33.036306,137.56702
+412004,Whyalla,103045,Stop 8 Playford Ave / Barter St - North West side,-33.028,137.56947
+412004,Whyalla,103046,Stop 8 Playford Ave / Barter St - South East side,-33.028204,137.56956
+412004,Whyalla,103135,Stop 9 Essington Lewis Ave / Farrell St - East side,-33.038058,137.572383
+412004,Whyalla,103134,Stop 9 Essington Lewis Ave / Farrell St - West side,-33.037913,137.572211
+412004,Whyalla,103177,Stop 9 Hambidge Tce / Ward St - North side,-33.034533,137.564694
+412004,Whyalla,103176,Stop 9 Hambidge Tce / Ward St - South side,-33.034921,137.565032
+412004,Whyalla,103047,Stop 9 Playford Ave / Lacey St - North West side,-33.02659,137.57088
+412004,Whyalla,103048,Stop 9 Playford Ave / Lacey St - South East side,-33.026658,137.5711
+412004,Whyalla,103224,Stop Westland Shopping Centre - South side,-33.02799,137.53109
+415047,Williamstown,102029,Melrose St / Memorial Ave - South East side (Mt Pleasant PO),-34.669509,138.889235
+415047,Williamstown,102053,Queen St / Memorial Dr - East Side (Williamstown Post Office),-34.67034,138.890269
+415047,Williamstown,102058,Queen St / Memorial Dr - West side (Williamstown Post Office),-34.670152,138.890087
+415047,Williamstown,102039,Yettie Rd / Lyndoch Valley Rd - North side (Williamstown),-34.66945,138.889336

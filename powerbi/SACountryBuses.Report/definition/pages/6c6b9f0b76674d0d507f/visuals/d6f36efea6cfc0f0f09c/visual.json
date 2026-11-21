@@ -1,0 +1,38 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.13.0/schema.json",
+  "name": "d6f36efea6cfc0f0f09c",
+  "position": {
+    "x": 40,
+    "y": 1030,
+    "z": 99,
+    "height": 40,
+    "width": 1840,
+    "tabOrder": 99
+  },
+  "visual": {
+    "visualType": "textbox",
+    "objects": {
+      "general": [
+        {
+          "properties": {
+            "paragraphs": [
+              {
+                "textRuns": [
+                  {
+                    "value": "Adelaide Metro GTFS feed version 1721 (Data.SA, CC BY 4.0), Monday 23 to Sunday 29 November 2026, school services left out; from the timetable as published, not what ran. Towns and residents: ABS Urban Centres and Localities and 2021 Census (CC BY 4.0). Worked out in Plotlay (getplotlay.com).",
+                    "textStyle": {
+                      "fontSize": "9pt",
+                      "color": "#5b6573",
+                      "fontFamily": "Segoe UI"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

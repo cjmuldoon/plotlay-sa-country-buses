@@ -1,0 +1,53 @@
+ucl_code,town,persons_2021,dwellings_2021,service,trips_week,days_served,weekday_trips,trips_mon,trips_tue,trips_wed,trips_thu,trips_fri,trips_sat,trips_sun,to_greater_adelaide_week,days_to_greater_adelaide,school_trips_week,demand_trips_week,routes,operators,lat,lng
+412003,Mount Gambier,26775,12709,Several a day,133,7,131,26,26,26,26,27,1,1,8,7,35,0,1280 1281 1282 1291 1292 1293,LinkSA; Stateliner,-37.82282,140.78165
+412004,Whyalla,20890,10970,Several a day,579,7,538,108,108,107,107,108,39,2,18,7,10,0,1001 1002 1003 1021 1022 1023 1024 1025 1026 1027,Des's Transport; Stateliner,-33.04147,137.52495
+413002,Murray Bridge,17451,8063,Several a day,144,7,130,25,25,25,28,27,8,6,53,7,85,0,1203 1210 1211 1212 1213 1214 1215 1216 1217 1218 1219 1231 1233 1234 1235 1280 1281 1282,LinkSA; Stateliner,-35.1201,139.26339
+413006,Victor Harbor,16656,10743,Several a day,96,7,80,16,16,16,16,16,8,8,31,7,20,0,1251 1252 1253 1254 1258,LinkSA,-35.55336,138.60955
+413004,Port Lincoln,14410,6984,Most days,5,5,3,0,1,1,0,1,1,1,5,5,20,0,1001,Stateliner,-34.7287,135.85594
+413005,Port Pirie,13722,6858,Several a day,120,7,107,23,21,20,22,21,9,4,18,7,40,0,1001 1002 1003 1040 1041 1050 1051,Community Care and Transport; Des's Transport; Stateliner,-33.19906,138.00597
+413003,Port Augusta,12792,6268,Several a day,196,7,188,38,38,36,37,39,4,4,18,7,20,0,1000 1001 1002 1003 1052 1070 1070A 1071 1071A 1072 1072A,Community Care and Transport; Des's Transport; Stateliner,-32.49631,137.78765
+414001,Goolwa,8725,6215,Several a day,96,7,80,16,16,16,16,16,8,8,31,7,0,0,1251 1252 1253 1254 1258,LinkSA,-35.50111,138.80685
+414005,Strathalbyn,6407,2832,Several a day,50,5,50,10,10,10,10,10,0,0,25,5,70,0,852,Adelaide Metro (SouthLink),-35.25429,138.89204
+414004,Nuriootpa,6227,2884,Several a day,120,7,102,22,20,20,20,20,10,8,59,7,105,0,1110 1111 1180 1202,LinkSA; Stateliner,-34.46888,138.99406
+414003,Naracoorte,5255,2487,Most days,11,7,8,1,2,1,2,2,1,2,5,5,0,0,1271 1281 1282,BusBiz; Stateliner,-36.96562,140.74444
+415029,Millicent,4762,2355,Most days,14,7,10,2,2,2,2,2,2,2,7,7,0,0,1280 1281,Stateliner,-37.59788,140.31645
+415037,Renmark,4700,2391,Most days,22,7,20,4,4,4,3,5,1,1,12,7,10,0,1180 1192 1193 1193A 1201A 1232A,BusBiz; LinkSA; Stateliner,-34.17509,140.73985
+415015,Kadina,4670,2178,Most days,18,7,14,3,2,3,2,4,2,2,8,7,0,0,1080 1081 1091 1092,Community Care and Transport; Peninsula Coaches,-33.9633,137.70482
+415030,Moonta,4649,3308,Most days,21,7,17,4,2,4,2,5,2,2,8,7,0,0,1080 1081 1091 1092,Community Care and Transport; Peninsula Coaches,-34.07012,137.57442
+415041,Tanunda,4384,2088,Several a day,96,7,82,18,16,16,16,16,8,6,47,7,45,0,1110 1111 1202,LinkSA,-34.53026,138.95956
+415046,Wallaroo,4218,2982,Most days,21,7,17,4,2,4,2,5,2,2,8,7,0,0,1080 1081 1091 1092,Community Care and Transport; Peninsula Coaches,-33.92324,137.63502
+415006,Berri,4150,2184,Several a day,42,7,38,6,6,6,10,10,2,2,12,7,10,0,1180 1191 1192 1193 1193A 1194 1201 1201A 1232A,BusBiz; LinkSA; Stateliner,-34.27607,140.60107
+415021,Loxton,3949,1931,Most days,19,5,19,3,3,3,7,3,0,0,0,0,0,0,1181 1191 1192 1193 1193A 1194 1232A,BusBiz; LinkSA; Stateliner,-34.44579,140.5819
+415039,Roxby Downs,3668,1788,No scheduled bus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,-30.56275,136.9001
+415009,Clare,3388,1769,Most days,11,5,9,2,0,2,3,2,0,2,4,4,0,5,1060 1061 1062 1063 1065 1066,Community Care and Transport; Peninsula Coaches,-33.83742,138.61057
+415007,Bordertown,2836,1272,Most days,20,7,17,1,3,1,6,6,1,2,5,5,0,0,1270 1271 1272 1273 1274 1281 1282,BusBiz; Stateliner,-36.31044,140.76985
+415016,Kapunda,2611,1246,No scheduled bus,0,0,0,0,0,0,0,0,0,0,0,0,60,0,,,-34.33727,138.91666
+415024,Mannum,2558,1531,Several a day,22,5,22,4,4,4,6,4,0,0,0,0,0,0,1203 1210 1211,LinkSA,-34.91073,139.30654
+415012,Freeling,2528,883,No scheduled bus,0,0,0,0,0,0,0,0,0,0,0,0,35,0,,,-34.45208,138.81526
+415008,Ceduna,2280,1218,Some days only,2,2,2,0,1,0,0,1,0,0,0,0,0,0,1000,Stateliner,-32.12921,133.69435
+415032,Normanville,2271,2155,Most days,14,7,10,2,2,2,2,2,2,2,7,7,0,0,1259,LinkSA,-35.43825,138.31613
+415047,Williamstown,2220,880,Several a day,20,5,20,4,4,4,4,4,0,0,10,5,50,0,1111,LinkSA,-34.66804,138.87982
+415001,Angaston,2191,1030,Several a day,49,7,42,10,8,8,8,8,4,3,47,7,50,0,1110 1111 1202,LinkSA,-34.50299,139.04226
+415003,Balaklava,1966,929,Some days only,4,2,4,2,0,0,0,2,0,0,2,2,0,0,1081,Peninsula Coaches,-34.1488,138.41711
+415017,Kingscote,1926,1142,Several a day,28,7,20,4,4,4,4,4,4,4,0,0,0,0,1260,Peninsula Coaches,-35.66187,137.62445
+415005,Barmera,1893,1102,Several a day,30,7,26,4,4,4,6,8,2,2,12,7,0,0,1180 1191 1201 1201A,BusBiz; LinkSA; Stateliner,-34.24778,140.472
+415022,Lyndoch,1887,785,Several a day,94,7,80,16,16,16,16,16,8,6,47,7,50,0,1110 1111,LinkSA,-34.6008,138.8821
+415045,Waikerie,1653,941,Several a day,28,7,24,4,4,4,4,8,2,2,12,7,0,0,1180 1201 1201A,LinkSA; Stateliner,-34.18277,139.98548
+415018,Kingston SE,1640,1269,Most days,6,6,5,1,1,1,1,1,1,0,3,3,0,0,1280,Stateliner,-36.83511,139.85377
+415042,Tumby Bay,1526,939,Most days,10,7,7,1,2,1,1,2,2,1,5,5,0,0,1001,Stateliner,-34.38122,136.10082
+415035,Peterborough,1437,945,Most days,8,5,7,2,0,1,1,3,0,1,4,4,0,0,1050 1051 1052 1060 1061 1062 1063,Community Care and Transport; Peninsula Coaches,-32.9707,138.84029
+415010,Coober Pedy,1435,1374,No scheduled bus,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,-29.01625,134.77745
+415040,Tailem Bend,1412,759,Several a day,24,5,24,4,4,4,6,6,0,0,0,0,0,0,1231 1233 1234 1235,LinkSA,-35.2591,139.45862
+415014,Jamestown,1404,730,Some days only,8,3,6,4,0,0,0,2,0,2,3,3,0,0,1050 1060 1061 1063,Community Care and Transport; Peninsula Coaches,-33.20081,138.60648
+415034,Penola,1374,708,Most days,10,7,7,1,1,1,2,2,1,2,5,5,0,0,1281 1282,Stateliner,-37.37671,140.83362
+415011,Crystal Brook,1327,638,Most days,24,7,18,4,4,3,3,4,3,3,13,7,0,0,1001 1003,Stateliner,-33.35722,138.20834
+415031,Mount Compass,1241,449,Several a day,62,7,50,10,10,10,10,10,6,6,31,7,0,0,1251 1252 1253,LinkSA,-35.35342,138.60818
+421001,Ardrossan (L),1188,763,Some days only,10,4,8,4,0,2,0,2,0,2,0,0,0,0,1082 1083 1092,Community Care and Transport; Peninsula Coaches,-34.42399,137.91553
+415038,Robe,1161,1353,Most days,6,6,5,1,1,1,1,1,1,0,3,3,0,0,1280,Stateliner,-37.17044,139.76732
+421034,Quorn (L),1152,680,Some days only,2,1,2,0,0,0,0,2,0,0,0,0,0,0,1052,Community Care and Transport,-32.34983,138.04371
+421018,Keith (L),1135,575,Most days,13,7,10,1,3,1,3,2,1,2,5,5,0,0,1270 1271 1281 1282,BusBiz; Stateliner,-36.09896,140.35689
+415036,Port Broughton,1113,776,Most days,12,7,10,2,2,2,2,2,1,1,5,5,0,0,1002,Stateliner,-33.59636,137.93279
+415023,Maitland (SA),1075,555,Some days only,8,3,6,0,0,4,0,2,0,2,0,0,0,0,1082 1091,Community Care and Transport; Peninsula Coaches,-34.37293,137.67359
+421013,Greenock (L),1042,437,No scheduled bus,0,0,0,0,0,0,0,0,0,0,0,0,20,0,,,-34.45713,138.92649
+415028,Middleton,1038,1176,Several a day,96,7,80,16,16,16,16,16,8,8,31,7,0,0,1251 1252 1253 1254 1258,LinkSA,-35.51231,138.71726
+415033,Paringa,1031,465,Some days only,4,2,4,0,0,2,0,2,0,0,0,0,0,0,1192 1193A,BusBiz,-34.17495,140.78564
